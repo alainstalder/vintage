@@ -109,6 +109,10 @@ Overall, of course, to fit a birth chart onto such a small screen,
 which was only 160 x 160 pixels back then, was quite a challenge,
 and I am proud of the result.
 
+You can still run Delphi today (at least in 2024)
+by running PalmOS in an emulator like, for example,
+PHEM on Android devices.
+
 Some things you can find here in the [PalmOS directory](PalmOS):
 
 * [**ZIP file**](PalmOS/collections/Delphi-astrolib-collection-2018.zip)
@@ -128,4 +132,4 @@ there were thousands of downloads and quite a few support requests.
 While maybe my main reason for writing it had ironically been
 to put hashes and signatures of some documents I had written
 (around themes that are now at exactphilosophy.net)
-into the About Screens of different versions of Delphi.
+into the About screens of different versions of Delphi.
