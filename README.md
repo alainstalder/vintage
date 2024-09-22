@@ -21,12 +21,12 @@ in the included **trueHelp** stack,
 where you could also try the features live,
 here its title page:
 
-[![image](trueHelp.jpg)](https://TODO)
+![image](trueHelp.jpg)]
 
 The trueColor stack itself was visually quite small,
 just showed credits for my part and used XCMDs:
 
-[![image](trueColor.jpg)](https://TODO)
+![image](trueColor.jpg)]
 
 After writing and publishing trueColor,
 I also wrote a collection of further HyperCard tools
@@ -44,20 +44,23 @@ and unfortunately its source code (C, CodeWarrior compiler) is lost.
 You can still run trueColor and trueTools today (at least in 2024)
 by running HyperCard in a Mac emulator like Mini vMac.
 
-Some things you can find here under the [HyperCard directory](https://TODO):
+Some things you can find here in the [HyperCard directory](HyperCard):
 
-* trueColor 1.03 original distribution: [trueColor-103.hqx](https://TODO)
-* trueHelp 1.03 original distribution: [trueTools-103.hqx](https://TODO)
-* Pages with intro of:
-  * The [**trueColor**](https://TODO) stack
-  * The [**trueHelp**](https://TODO) stack (don't miss!)
-  * All [**trueTools**](https://TODO) stacks
-* [**READMEs**](https://TODO) of all components, rendered to PDFs
-* [**Hypertalk scripts**](https://TODO) of:
-  * The [**trueColor**](https://TODO) stack (core color functionality)
-  * The [**vue**](https://TODO) stack of trueTools (an image viewer, 
+* [**ZIP file**](HyperCard/collections/trueColor-trueTools-collection-2018.zip)
+  of a collection from 2018 original distributions and some extracted info.
+* trueColor 1.03 original distribution: [trueColor-103.hqx](HyperCard/distro/trueColor-103.hqx)
+* trueHelp 1.03 original distribution: [trueTools-103.hqx](HyperCard/distro/trueTools-103.hqx)
+* All cards of:
+  * The [**trueColor**](HyperCard/cards/trueColor.md) stack
+  * The [**trueHelp**](HyperCard/cards/trueHelp.md) stack (don't miss!)
+  * All [**trueTools**](HyperCard/cards/trueTools.md) stacks
+* [**READMEs**](HyperCard/READMEs) of all components, rendered to PDFs
+* [**Hypertalk scripts**](HyperCard/HyperTalk) of:
+  * [**trueColor**](HyperCard/HyperTalk/trueColor.md) stack (core color functionality)
+  * trueTools: [**vue**](HyperCard/HyperTalk/trueTools-vue.md) stack 
+    (an interactive image viewer, to me personally
     one of the most beautiful small pieces of software I ever wrote)
-  * [**More**](https://TOOD) stacks, cards, buttons of trueColor/trueTools
+  * trueTools: [**more**](HyperCard/HyperTalk) stacks
 
 Some general info around HyperCard and especially color:
 
@@ -106,16 +109,18 @@ Overall, of course, to fit a birth chart onto such a small screen,
 which was only 160 x 160 pixels back then, was quite a challenge,
 and I am proud of the result.
 
-Some things you can find here under the [PalmOS directory](https://TODO):
+Some things you can find here in the [PalmOS directory](PalmOS):
 
-* [**ZIP file of the Website**](https://TODO) for Delphi 2.01 + astrolib 1.03 in 2002\
-  (contains also the respective distributions of Delphi/astrolib)
-* From that website:
+* [**ZIP file**](PalmOS/collections/Delphi-astrolib-collection-2018.zip)
+  of a collection from 2018 that
+  contains the original website of 2002 with distributions
+  and also the astrolib source as far as it has been preserved.
+* Extracted from the website of 2002:
   * [**Title page**](PalmOS/extracts/web/index.md) with blown up images (without links)
   * [**Delphi User's Manual page**](PalmOS/extracts/web/delphi-users-manual.md) with blown up images (without links)
-  * [**astrolib page**](https://TODO) rendered to Markdown
-* [**Source code of astrolib**](https://TODO)
-  (C with macros to make it read similar to Modula-2,
+  * [**astrolib page**](PalmOS/extracts/web/astrolib.md) rendered to Markdown
+* [**Source code of astrolib**](PalmOS/source/astrolib)
+  (In C, but using macros to make it read similar to Modula-2,
   which made a difference before syntax coloring in editors)
 
 By the way, Delphi was quite successful,

@@ -1,0 +1,3041 @@
+# moreplaces.txt
+#
+# Links additional locations to UNIX time zone locations.
+#
+# Data for all places has been looked up on paper and entered manually,
+# except for US locations which are based on the 1990 Census data.
+#
+# This file is in the public domain.
+#
+# Compiled in May 2001 by Alain Stalder ("delphi29@excite.com").
+#
+
+# Afghanistan
+Kabul	34n21	62e07	Herat
+Kabul	34n28	70e32	Jalalabad
+Kabul	31n42	65e47	Kandahar
+Kabul	36n48	68e59	Kunduz
+Kabul	36n47	67e11	Mazar-i-Sharif
+
+# Albania
+Tirane	41n19	19e26	Durres
+Tirane	41n06	20e05	Elbasan
+Tirane	40n37	20e46	Korce
+Tirane	42n05	19e31	Shkoder
+Tirane	40n29	19e30	Vlore
+
+# Algeria
+Algiers	36n53	7e43	Annaba
+Algiers	31n37	2w13	Bechar
+Algiers	32n21	3e48	Ghardaia
+Algiers	35n37	0w41	Oran
+Algiers	22n49	5e24	Tamanghasset
+
+# Andorra
+# -
+
+# Angola
+Luanda	12s44	13e25	Benguela
+Luanda	5s33	12e21	Cabinda
+Luanda	12s45	15e44	Huambo
+Luanda	12s26	13e31	Lobito
+Luanda	15s10	12e09	Namibe
+
+# Anguilla
+# -
+
+# Antarctica
+# -
+
+# Antigua & Barbuda
+# -
+
+# Argentina
+
+# ARG-East
+Buenos_Aires	34s46	58w12	Avellaneda
+Buenos_Aires	38s37	62w17	Bahia Blanca
+Buenos_Aires	34s53	57w50	La Plata
+Buenos_Aires	37s57	57w41	Mar del Plata
+Buenos_Aires	47s38	66w05	Puerto Deseado
+Buenos_Aires	51s40	69w15	Rio Gallegos
+Buenos_Aires	40s48	63w13	Viedma
+
+# ARG-Northeast
+Rosario	45s48	67w41	Comodoro Rivadavia
+Rosario	31s16	58w14	Concordia
+Rosario	27s27	58w39	Corrientes
+Rosario	42s55	71w17	Esquel
+Rosario	26s06	58w15	Formosa
+Rosario	31s47	60w24	Parana
+Rosario	43s15	65w06	Rawson
+Rosario	27s18	59w09	Resistencia
+Rosario	31s32	60w44	Santa Fe
+Rosario	36s30	64w19	Santa Rosa
+
+# ARG-West
+# (assuming: includes Santiago del Estero)
+Cordoba	29s18	66w51	La Rioja
+Cordoba	38s51	68w19	Neuquen
+Cordoba	33s07	64w14	Rio Cuarto
+Cordoba	24s38	65w33	Salta
+Cordoba	41s08	71w09	San Carlos de Bariloche
+Cordoba	31s19	68w37	San Juan
+Cordoba	33s08	66w29	San Luis
+Cordoba	26s39	65w23	San Miguel de Tucuman
+Cordoba	27s41	64w30	Santiago del Estero
+
+# ARG-Jujuy
+# -
+
+# ARG-Catamarca
+# -
+
+# ARG-Mendoza
+Mendoza	34s21	68w18	San Rafael
+
+
+# Armenia
+# -
+
+# Aruba
+# -
+
+# Australia
+
+# AUS-Lord Howe Island
+# -
+
+# AUS-Tasmania
+Hobart	41s28	147e06	TAS Launceston
+
+# AUS-Victoria
+Melbourne	37s34	143e48	VIC Ballarat
+Melbourne	36s45	144e15	VIC Bendigo
+Melbourne	38s10	144e18	VIC Geelong
+Melbourne	36s25	145e23	VIC Shepparton
+Melbourne	38s23	142e03	VIC Warrnambool
+
+# AUS-New South Wales
+Sydney	35s18	149e08	ACT Canberra
+Sydney	36s07	146e51	NSW Albury-Wodonga
+Sydney	32s15	148e36	NSW Dubbo
+Sydney	28s54	153e04	NSW Lismore
+Sydney	32s55	151e36	NSW Newcastle
+Sydney	33s19	149e02	NSW Orange
+Sydney	31s07	150e55	NSW Tamworth
+Sydney	35s07	147e21	NSW Wagga-Wagga
+Sydney	34s31	150e49	NSW Wollongong
+
+# AUS-Queensland
+Brisbane	24s55	152e19	QLD Bundaberg
+Brisbane	16s52	145e40	QLD Cairns
+Brisbane	26s26	146e12	QLD Charleville
+Brisbane	23s54	151e11	QLD Gladstone
+Brisbane	28s04	153e23	QLD Gold Coast
+Brisbane	21s08	149e07	QLD Mackay
+Brisbane	20s43	139e29	QLD Mount Isa
+Brisbane	23s23	150e30	QLD Rockhampton
+Brisbane	27s34	151e56	QLD Toowoomba
+Brisbane	19s16	146e45	QLD Townsville
+
+# AUS-South Australia
+Adelaide	29s01	134e46	SA Coober Pedy
+Adelaide	37s49	140e48	SA Mount Gambier
+Adelaide	32s29	137e47	SA Port Augusta
+Adelaide	34s40	135e46	SA Port Lincoln
+Adelaide	33s00	137e28	SA Whyalla
+
+# AUS-Northern Territory
+Darwin	23s40	133e52	NT Alice Springs
+Darwin	25s16	131e00	NT Ayers Rock
+
+# AUS-Western Australia
+Perth	34s59	117e51	WA Albany
+Perth	33s20	115e42	WA Bunbury
+Perth	24s51	113e43	WA Carnarvon
+Perth	17s18	123e38	WA Derby
+Perth	28s45	114e39	WA Geraldton
+Perth	30s46	121e26	WA Kalgoorlie
+Perth	32s31	115e41	WA Mandurah
+Perth	20s21	118e35	WA Port Hedland
+
+
+# Austria
+Vienna	47n25	9e45	Dornbirn
+Vienna	47n04	15e27	Graz
+Vienna	47n17	11e24	Innsbruck
+Vienna	46n38	14e18	Klagenfurt
+Vienna	48n18	14e19	Linz
+Vienna	47n48	13e02	Salzburg
+
+# Azerbaijan
+Baku	40n44	46e22	Ganca
+
+# Bahamas
+Nassau	26n30	78w45	Freeport
+
+# Bahrain
+# -
+
+# Bangladesh
+Dacca	22n19	91e55	Chittagong
+Dacca	22n49	89e37	Khulna
+Dacca	24n23	88e45	Rajshahi
+
+# Barbados
+# -
+
+# Belarus
+Minsk	53n09	29e14	Babruysk
+Minsk	52n06	23e40	Brest
+Minsk	52n30	33e55	Homel
+Minsk	53n41	23e53	Hrodna
+Minsk	54n30	30e24	Orsha
+Minsk	55n15	30e07	Vizebsk
+
+# Belgium
+Brussels	51n13	4e26	Antwerp
+Brussels	51n12	3e23	Brugge
+Brussels	50n25	4e27	Charleroi
+Brussels	51n03	3e43	Ghent
+Brussels	50n38	5e35	Liege
+Brussels	50n28	4e52	Namur
+Brussels	51n13	2e55	Oostende
+
+# Belize
+# -
+
+# Benin
+# -
+
+# Bermuda
+# -
+
+# Bhutan
+# -
+
+# Bolivia
+La_Paz	17s17	66w10	Cochabamba
+La_Paz	17s54	67w14	Oruro
+La_Paz	19s29	65w40	Potosi
+La_Paz	17s36	63w23	Santa Cruz
+La_Paz	18s47	65w27	Sucre
+La_Paz	14s47	64w47	Trinidad
+
+# Bosnia & Herzegovina
+Sarajevo	44n47	17e09	Banja Luca
+Sarajevo	43n22	17e48	Mostar
+Sarajevo	44n34	18e42	Tuzla
+Sarajevo	44n13	17e53	Zenica
+
+# Botswana
+# -
+
+# Brazil
+
+# BRA-Fernando de Noronha
+# -
+
+# BRA-Amapa, E Para
+Belem	3s06	52w15	Altamira
+Belem	0n13	51w07	Macapa
+Belem	5s22	49w08	Maraba
+
+# BRA-Northeast
+Fortaleza	5s23	47w18	Imperatriz
+Fortaleza	7s01	34w56	Joao Pessoa
+Fortaleza	9s11	40w30	Juazeiro
+Fortaleza	5s40	35w18	Natal
+Fortaleza	2s53	41w33	Parnaiba
+Fortaleza	7s56	34w52	Recife
+Fortaleza	2s27	44w13	Sao Luis
+Fortaleza	5s01	42w44	Teresina
+
+# BRA-Tocantins
+# -
+
+# BRA-Alagoas, Sergipe
+Maceio	10s48	37w09	Aracaju
+
+# BRA-South and southeast
+Sao_Paulo	19s55	44w05	Belo Horizonte
+Sao_Paulo	27s04	49w01	Blumenau
+Sao_Paulo	15s47	47w53	Brasilia
+Sao_Paulo	22s54	47w05	Campinas
+Sao_Paulo	21s43	41w24	Campos
+Sao_Paulo	29s04	51w22	Caxias do Sul
+Sao_Paulo	25s20	49w18	Curitiba
+Sao_Paulo	12s02	38w57	Feira de Santana
+Sao_Paulo	27s27	48w26	Florianopolis
+Sao_Paulo	16s37	49w19	Goiania
+Sao_Paulo	18s37	42w04	Governador Valadares
+Sao_Paulo	14s49	39w02	Illheus
+Sao_Paulo	21s38	43w38	Juiz de Fora
+Sao_Paulo	27s16	50w22	Lajes
+Sao_Paulo	23s12	51w18	Londrina
+Sao_Paulo	22s51	42w53	Niteroi
+Sao_Paulo	22s45	43w28	Nova Iguazu
+Sao_Paulo	29s27	51w18	Novo Hamburgo
+Sao_Paulo	25s33	48w33	Paranagua
+Sao_Paulo	28s13	53w02	Passo Fundo
+Sao_Paulo	31s40	52w27	Pelotas
+Sao_Paulo	25s06	50w16	Ponta Grossa
+Sao_Paulo	30s03	51w03	Porto Alegre
+Sao_Paulo	21s04	47w56	Ribeirao Preto
+Sao_Paulo	22s56	43w25	Rio de Janeiro
+Sao_Paulo	32s01	52w23	Rio Grande
+Sao_Paulo	12s45	38w13	Salvador
+Sao_Paulo	29s38	54w00	Santa Maria
+Sao_Paulo	23s24	45w58	Santo Andre
+Sao_Paulo	23s41	46w11	Santos
+Sao_Paulo	22s48	43w05	Sao Goncalo
+Sao_Paulo	20s46	49w36	Sao Jose
+Sao_Paulo	23s27	47w34	Sorocaba
+Sao_Paulo	18s45	48w21	Uberlandia
+Sao_Paulo	20s12	40w29	Vitoria
+
+# BRA-Mato Grosso, Mato Grosso do Sul
+Cuiaba	20s30	54w32	Campo Grande
+Cuiaba	22s09	54w52	Dourados
+
+# BRA-W Para, Rondonia
+Porto_Velho	10s42	65w15	Guajara-Mirim
+
+# BRA-Roraima
+# -
+
+# BRA-Amazonas
+Manaus	7s23	63w07	Humanita
+Manaus	3s48	70w03	Leticia
+
+# BRA-Acre
+Porto_Acre	7s30	72w51	Cruzeiro do Sul
+
+
+# Britain
+# Northern Ireland
+Belfast	54n39	5w39	Bangor
+Belfast	55n00	7w19	Londonderry
+Belfast	54n27	6w26	Portadown
+# Great Britain
+London	57n08	2w07	Aberdeen
+London	51n34	0e28	Basildon
+London	51n16	1w06	Basingstoke
+London	53n24	3w03	Birkenhead
+London	52n28	1w53	Birmingham
+London	53n44	2w29	Blackburn
+London	53n48	3w01	Blackpool
+London	53n36	2w27	Bolton
+London	50n44	1w53	Bournemouth
+London	53n48	1w45	Bradford
+London	50n51	0w10	Brighton
+London	51n27	2w36	Bristol
+London	52n13	0e09	Cambridge
+London	51n18	1e04	Canterbury
+London	51n29	3w12	Cardiff
+London	54n54	2w59	Carlisle
+London	53n10	2w52	Chester
+London	52n22	1w33	Coventry
+London	52n56	1w30	Derby
+London	53n31	1w07	Doncaster
+London	51n08	1e19	Dover
+London	52n28	2w10	Dudley
+London	56n28	2w59	Dundee
+London	56n04	3w27	Dunfermline
+London	55n56	3w11	Edinburgh
+London	50n43	3w33	Exeter
+London	54n56	1w37	Gateshead
+London	55n51	4w17	Glasgow
+London	51n29	0e22	Grays
+London	51n29	0e00	Greenwich
+London	49n27	2w34	Guernsey
+London	54n00	1w30	Harrogate
+London	50n52	0e33	Hastings
+London	50n52	0w56	Havant
+London	53n40	1w47	Huddersfield
+London	57n27	4w14	Inverness
+London	52n05	1e08	Ipswich
+London	49n13	2w09	Jersey
+London	53n45	0w21	Kingston-upon-Hull
+London	56n05	3w11	Kirkcaldy
+London	54n03	2w48	Lancaster
+London	53n47	1w31	Leeds
+London	52n39	1w08	Leicester
+London	53n25	2w56	Liverpool
+London	51n54	0w25	Luton
+London	53n28	2w15	Manchester
+London	54n33	1w12	Middlesbrough
+London	52n01	0w45	Milton Keynes
+London	55n49	3w59	Motherwell
+London	55n01	1w35	Newcastle
+London	51n35	3w00	Newport
+London	52n16	0w55	Northampton
+London	52n36	1e15	Norwich
+London	52n58	1w10	Nottingham
+London	53n32	2w07	Oldham
+London	51n46	1w15	Oxford
+London	50n07	5w33	Penzance
+London	56n23	3w27	Perth
+London	52n36	0w16	Petersborough
+London	50n22	4w07	Plymouth
+London	50n45	1w58	Poole
+London	50n47	1w04	Portsmouth
+London	53n45	2w43	Preston
+London	51n27	0w59	Reading
+London	53n26	1w20	Rotherham
+London	53n27	2w45	Saint Helens
+London	51n05	1w48	Salisbury
+London	54n16	0w26	Scarborough
+London	53n23	1w28	Sheffield
+London	50n56	1w24	Southampton
+London	51n33	0e41	Southend-on-Sea
+London	53n24	2w12	Stockport
+London	54n35	1w20	Stockton
+London	53n02	2w10	Stoke-on-Trent
+London	54n54	1w24	Sunderland
+London	51n38	3w57	Swansea
+London	52n41	2w26	Telford
+London	50n29	3w32	Torbay
+London	52n37	1w57	Walsall
+London	52n31	2w02	West Bromwich
+London	53n22	2w36	Warrington
+London	51n28	0w38	Windsor
+London	52n36	2w07	Wolverhampton
+London	53n05	2w59	Wrexham
+London	53n57	1w07	York
+London	58n26	3w07	Wick
+
+# British Indian Ocean Territory
+# -
+
+# Brunei
+# -
+
+# Bulgaria
+Sofia	42n30	27e29	Burgas
+Sofia	43n34	27e51	Dobric
+Sofia	43n24	24e37	Pleven
+Sofia	42n10	24e43	Plovdiv
+Sofia	43n49	26e00	Ruse
+Sofia	42n40	26e20	Sliven
+Sofia	42n25	25e38	Stara Zagora
+Sofia	43n15	26e57	Sumen
+Sofia	43n13	27e55	Varna
+
+# Burkina Faso
+Ouagadougou	11n11	4w24	Bobo-Dioulasso
+
+# Burundi
+# -
+
+# Cambodia
+Phnom_Penh	13n07	103e11	Battambang
+
+# Cameroon
+Douala	9n16	13e21	Garoua
+Douala	3n53	11e33	Yaounde
+
+
+# Canada
+
+# AB=Alberta, BC=British Columbia, MB=Manitoba, NB=New Brunswick
+# NF=Newfoundland, NS=Nova Scotia, NT=Northwest Territories
+# ON=Ontario, PE=Prince Edward Island, QC=Quebec
+# SK=Saskatchewan, YT=Yukon
+
+# CAN-NF Island...
+St_Johns	48n53	58w07	NF Corner Brook
+
+# CAN-NS (most places), NB, west NF, east QC, PE
+Halifax	46n12	63w01	PE Charlottetown
+Halifax	45n52	66w42	NB Fredericton
+Halifax	45n16	66w02	NB Saint John
+Halifax	52n54	67w00	NF Labrador City
+
+# CAN-NS (no DST 1966-71)
+# -
+
+# CAN-East NF
+# -
+
+# CAN-ON+QC (most places)
+Montreal	48n26	71w04	QC Chicoutimi
+Montreal	46n51	71w18	QC Quebec
+Montreal	48n14	79w06	QC Rouyn
+Montreal	50n18	66w24	QC Sept-Iles
+Montreal	45n22	71w56	QC Sherbrooke
+Montreal	46n20	72w40	QC Trois-Rivieres
+Montreal	43n13	79w59	ON Hamilton
+Montreal	43n39	80w46	ON Kitchener
+Montreal	42n57	81w16	ON London
+Montreal	46n12	79w21	ON North Bay
+Montreal	43n54	78w57	ON Oshawa
+Montreal	45n25	75w43	ON Ottawa
+Montreal	46n35	84w27	ON Sault Ste. Marie
+Montreal	46n30	81w02	ON Sudbury
+Montreal	43n41	79w31	ON Toronto
+Montreal	42n13	82w58	ON Windsor
+
+# CAN-ON+QC (no DST 1967-73)
+# (I have no clue; all candidates are listed above)
+# -
+
+# CAN-Thunder Bay (ON)
+# -
+
+# CAN-MB+west ON
+Winnipeg	49n44	99w52	MB Brandon
+Winnipeg	55n45	97w53	MB Thompson
+
+# CAN-Rainy River, Fort Frances
+# CAN-Pangnirtung, Nuvanut
+# CAN-East Nuvanut
+# CAN-Central Nuvanut
+# CAN-West Nuvanut
+# -
+
+# CAN-SK (most places)
+Regina	50n20	105w31	SK Moose Jaw
+Regina	53n14	105w53	SK Prince Albert
+Regina	52n08	106w45	SK Saskatoon
+
+# CAN-SK (midwest)
+# -
+
+# CAN-AB, east BC, west SK
+Edmonton	51n02	114w07	AB Calgary
+Edmonton	49n38	112w50	AB Lethbridge
+Edmonton	50n07	110w50	AB Medicine Hat
+Edmonton	49n31	115w46	BC Cranbrook
+
+# CAN-Central NT
+# CAN-West NT
+# CAN-Dawson Creek & Fort Saint John (BC)
+# -
+
+# CAN-West British Columbia
+Vancouver	50n44	120w16	BC Kamloops
+Vancouver	49n52	119w23	BC Kelowna
+Vancouver	49n12	124w54	BC Port Alberni
+Vancouver	49n53	124w38	BC Powell River
+Vancouver	53n55	122w35	BC Prince George
+Vancouver	54n18	130w17	BC Prince Rupert
+Vancouver	48n27	123w27	BC Victoria
+
+# CAN-South Yukon
+# CAN-North Yukon
+# -
+
+
+# Cape Verde
+# -
+
+# Cayman Islands
+# -
+
+# Central African Rep.
+# -
+
+# Chad
+Ndjamena	13n41	20e54	Abeche
+Ndjamena	9n09	18e23	Sarh
+
+# Chile
+Santiago	23s32	70w16	Antofagasta
+Santiago	18s19	70w11	Arica
+Santiago	36s20	72w14	Chillan
+Santiago	36s42	72w59	Conception
+Santiago	20s02	69w59	Iquique
+Santiago	29s54	71w18	La Serena
+Santiago	37s12	72w14	Los Angeles
+Santiago	40s23	73w13	Osorno
+Santiago	45s21	72w41	Puerto Aisen
+Santiago	41s28	73w00	Puerto Montt
+Santiago	53s10	70w56	Punta Arenas
+Santiago	34s10	70w45	Rancagua
+Santiago	34s38	71w08	Talca
+Santiago	36s22	72w48	Talcahuano
+Santiago	25s19	70w23	Taltal
+Santiago	38s26	72w28	Temuco
+Santiago	39s44	73w10	Valdivia
+Santiago	32s59	71w30	Valparaiso
+Santiago	32s38	71w21	Vina del Mar
+
+# China
+
+# CHN-North Manchuria
+# (assuming: Jilin+Heilongjiang)
+Harbin	43n54	125e24	Changchun
+Harbin	47n23	124e03	Qiqihar
+
+# CHN-China Coast
+# (assuming: cities below)
+Shanghai	39n56	116e23	Beijing
+Shanghai	26n05	119e20	Fuzhou
+Shanghai	23n16	113e18	Guangzhou
+Shanghai	30n15	120e04	Hangzhou
+Shanghai	22n18	114e10	Kowloon
+Shanghai	28n40	115e57	Nanchang
+Shanghai	32n02	118e46	Nanjing
+Shanghai	36n08	120e27	Qingdao
+
+# CHN-China Mountains
+Chungking	40n38	110e00	Baotou
+Chungking	26n37	106e44	Guiyang
+Chungking	25n02	102e43	Kunming
+Chungking	36n02	103e50	Lanzhou
+Chungking	34n13	108e59	Xian
+
+# CHN-Tibet & Xinjiang
+Urumqi	29n42	91e09	Lhasa
+
+# CHN-Eastern Turkestan
+# -
+
+
+# Christmas Island
+# -
+
+# Cocos (Keeling) Islands
+# -
+
+# Colombia
+Bogota	4n38	75w47	Armenia
+Bogota	10n55	74w58	Barranquilla
+Bogota	7n21	73w12	Bucaramanga
+Bogota	4n01	77w03	Buenaventura
+Bogota	3n27	76w31	Cali
+Bogota	10n25	75w32	Cartagena
+Bogota	11n04	74w07	Cienaga
+Bogota	7n59	72w41	Cucuta
+Bogota	4n30	75w05	Ibague
+Bogota	5n22	75w41	Manizales
+Bogota	6n24	75w41	Medellin
+Bogota	8n56	76w01	Monteria
+Bogota	2n56	75w23	Neiva
+Bogota	1n25	77w22	Pasto
+Bogota	4n59	75w52	Pereira
+Bogota	11n26	74w06	Santa Marta
+Bogota	4n27	73w42	Villavicencio
+
+# Comoros
+# -
+
+# Congo (Dem. Rep.)
+# west
+Kinshasa	5s08	18e47	Kikwit
+Kinshasa	6s04	13e41	Matadi
+Kinshasa	0s13	18e31	Mbandaka
+# east
+Lubumbashi	2s29	28e43	Bukavu
+Lubumbashi	5s53	22e22	Kananga
+Lubumbashi	0n43	25e50	Kisangani
+Lubumbashi	10s55	26e45	Likasi
+Lubumbashi	10s21	25e36	Kolwezi
+Lubumbashi	6s13	23e38	Mbuji-Mayi
+
+# Congo (Rep.)
+Brazzaville	4s40	11e53	Pointe Noire
+
+# Cook Islands
+Rarotonga	10s24	161w01	Manihiki
+Rarotonga	11s00	166w00	Nassau
+
+# Costa Rica
+# -
+
+# Cote d'Ivoire
+Abidjan	7n42	5w03	Bouake
+Abidjan	7n29	7w31	Man
+
+# Croatia
+Zagreb	42n39	18e05	Dubrovnik
+Zagreb	45n33	18e42	Osijek
+Zagreb	44n52	13e50	Pula
+Zagreb	45n21	14e23	Rijeka
+Zagreb	43n31	16e26	Split
+Zagreb	44n07	15e15	Zadar
+
+# Cuba
+Havana	21n20	77w58	Camaguey
+Havana	22n12	80w30	Cienfuegos
+Havana	20n05	75w14	Guantanamo
+Havana	20n49	76w19	Holguin
+Havana	23n00	81w37	Matanzas
+Havana	22n24	83w42	Pinar del Rio
+Havana	22n25	79w58	Santa Clara
+Havana	20n00	75w50	Santiago de Cuba
+
+# Cyprus
+# -
+
+# Czech Republic
+Prague	49n12	16e37	Brno
+Prague	50n13	15e50	Hradec Karlove
+Prague	49n36	17e16	Olomouc
+Prague	49n49	18e19	Ostrava
+Prague	49n45	13e24	Plzen
+
+# Denmark
+Copenhagen	57n00	9e55	Alborg
+Copenhagen	56n05	10e09	Arhus
+Copenhagen	55n09	14e57	Bornholm
+Copenhagen	55n29	8e28	Esbjerg
+Copenhagen	57n26	10e27	Frederikshavn
+Copenhagen	56n04	12e35	Helsingor
+Copenhagen	55n31	9e28	Kolding
+Copenhagen	55n23	10e18	Odense
+Copenhagen	56n29	10e02	Randers
+Copenhagen	56n53	8e34	Thisted
+
+# Djibouti
+# -
+
+# Dominica
+# -
+
+# Dominican Republic
+# -
+
+# East Timor
+# -
+
+# Ecuador
+Guayaquil	2s55	79w03	Cuenca
+Guayaquil	0s14	78w30	Quito
+Guayaquil	0n55	79w45	Esmeraldas
+
+# Egypt
+Cairo	22n07	30e57	Abu Simbel
+Cairo	31n12	29e54	Alexandria
+Cairo	24n08	33e10	Aswan
+Cairo	27n04	31e11	Asyut
+Cairo	29n06	31e04	Beni Suef
+Cairo	29n19	30e51	El Faiyum
+Cairo	27n46	30e45	El Minya
+Cairo	30n01	31e12	Giza
+Cairo	25n42	32e47	Luxor
+Cairo	31n16	32e16	Port Said
+Cairo	26n15	32e47	Qena
+Cairo	26n29	31e39	Sohag
+Cairo	29n59	32e32	Suez
+Cairo	30n47	31e00	Tanta
+
+# El Salvador
+# -
+
+# Equatorial Guinea
+Malabo	1n37	10e32	Mbini
+
+# Eritrea
+# -
+
+# Estonia
+Tallinn	59n22	28e03	Narva
+Tallinn	58n22	26e34	Tartu
+
+# Ethiopia
+Addis_Ababa	9n19	42e08	Harar
+Addis_Ababa	12n41	37e31	Gondar
+
+# Faeroe Islands
+# -
+
+# Falkland Islands
+# -
+
+# Fiji
+# -
+
+# Finland
+Helsinki	60n11	24e38	Espoo
+Helsinki	68n39	27e33	Ivalo
+Helsinki	62n37	29e47	Joensuu
+Helsinki	65n43	24e37	Kemi
+Helsinki	62n50	27e37	Kuopio
+Helsinki	61n01	28e15	Lappeenranta
+Helsinki	65n00	25e30	Oulu
+Helsinki	66n30	25e40	Rovaniemi
+Helsinki	61n27	23e43	Tampere
+Helsinki	60n24	22e12	Turku
+Helsinki	63n04	21e40	Vaasa
+
+
+# France
+Paris	43n32	5e26	Aix-en-Provence
+Paris	41n56	8e42	Ajaccio
+Paris	49n54	2e17	Amiens
+Paris	47n28	0w34	Angers
+Paris	43n41	4e40	Arles
+Paris	43n55	4e51	Avignon
+Paris	42n42	9e27	Bastia
+Paris	47n38	6e52	Belfort
+Paris	44n51	0e29	Bergerac
+Paris	47n14	6e01	Besancon
+Paris	43n27	1w31	Biarriz
+Paris	41n24	9e10	Bonifacio
+Paris	44n50	0w34	Bordeaux
+Paris	50n43	1e36	Boulogne-sur-Mer
+Paris	48n25	4w30	Brest
+Paris	49n10	0w22	Caen
+Paris	50n57	1e50	Calais
+Paris	43n33	7e01	Cannes
+Paris	43n14	2e22	Carcassonne
+Paris	48n27	1e29	Chartres
+Paris	48n07	5e08	Chaumont
+Paris	49n38	1w39	Cherbourg
+Paris	45n47	3e06	Clermont-Ferrand
+Paris	49n55	1e04	Dieppe
+Paris	47n19	5e01	Dijon
+Paris	47n07	5e31	Dole
+Paris	45n10	5e43	Grenoble
+Paris	46n10	1w10	La Rochelle
+Paris	49n30	0e05	Le Havre
+Paris	48n00	0e12	Le Mans
+Paris	50n38	3e04	Lille
+Paris	45n50	1e15	Limoges
+Paris	47n46	3w22	Lorient
+Paris	43n06	0w02	Lourdes
+Paris	45n45	4e51	Lyon
+Paris	46n19	4e49	Macon
+Paris	43n18	5e24	Marseille
+Paris	49n08	6e10	Metz
+Paris	44n34	4e47	Montelimar
+Paris	43n35	3e55	Montpellier
+Paris	47n35	7e20	Mulhouse
+Paris	48n42	6e12	Nancy
+Paris	47n13	1w34	Nantes
+Paris	43n11	3e00	Narbonne
+Paris	46n59	3e10	Nevers
+Paris	43n42	7e15	Nice
+Paris	43n49	4e22	Nimes
+Paris	47n55	1e55	Orleans
+Paris	42n42	2e55	Perpignan
+Paris	46n35	0e20	Poitiers
+Paris	49n16	4e03	Reims
+Paris	48n05	1w40	Rennes
+Paris	50n40	3e11	Roubaix
+Paris	49n26	1e05	Rouen
+Paris	48n57	2e23	Saint-Denis
+Paris	45n26	4e24	Saint-Etienne
+Paris	48n39	1w59	Saint-Malo
+Paris	47n18	2w13	Saint-Nazaire
+Paris	43n20	6e38	Saint-Tropez
+Paris	48n35	7e45	Strasbourg
+Paris	43n09	5e56	Toulon
+Paris	43n37	1e27	Toulouse
+Paris	47n24	0e41	Tours
+Paris	50n22	3e31	Valenciennes
+Paris	49n11	5e23	Verdun
+Paris	48n48	2e07	Versailles
+
+# French Guiana
+# -
+
+# French Polynesia
+# -
+
+# French Southern & Antarctic Lands
+# -
+
+# Gabon
+Libreville	0s43	8e55	Port-Gentil
+
+# Gambia
+# -
+
+# Georgia
+Tbilisi	41n38	41e41	Batumi
+Tbilisi	42n20	42e43	Koutaisi
+Tbilisi	43n09	41e06	Sokhumi
+
+# Germany
+Berlin	50n46	6e06	Aachen
+Berlin	48n22	10e53	Augsburg
+Berlin	52n02	8e32	Bielefeld
+Berlin	51n29	7e12	Bochum
+Berlin	50n44	7e06	Bonn
+Berlin	52n16	10e32	Braunschweig
+Berlin	53n05	8e48	Bremen
+Berlin	53n33	8e36	Bremerhaven
+Berlin	50n50	12e56	Cheminz
+Berlin	50n56	6e57	Cologne
+Berlin	51n46	14e20	Cottbus
+Berlin	49n53	8e39	Darmstadt
+Berlin	51n50	12e15	Dessau
+Berlin	51n31	7e28	Dortmund
+Berlin	51n03	13e45	Dresden
+Berlin	51n27	6e45	Duisburg
+Berlin	51n13	6e46	Dusseldorf
+Berlin	50n59	11e03	Erfurt
+Berlin	49n36	11e01	Erlangen
+Berlin	51n27	7e01	Essen
+Berlin	54n47	9e27	Flensburg
+Berlin	50n07	8e41	Frankfurt am Main
+Berlin	52n21	14e32	Frankfurt an der Oder
+Berlin	48n00	7e50	Freiburg
+Berlin	49n28	11e00	Furth
+Berlin	47n31	11e08	Garmisch-Partenkirchen
+Berlin	51n31	7e04	Gelsenkirchen
+Berlin	50n52	12e05	Gera
+Berlin	51n32	9e56	Gottingen
+Berlin	51n21	7e28	Hagen
+Berlin	51n30	12e00	Halle
+Berlin	53n33	10e00	Hamburg
+Berlin	51n41	7e48	Hamm
+Berlin	52n22	9e43	Hannover
+Berlin	49n25	8e42	Heidelberg
+Berlin	49n08	9e13	Heilbronn
+Berlin	54n12	7e54	Helgoland
+Berlin	52n09	9e58	Hildesheim
+Berlin	48n46	11e25	Ingolstadt
+Berlin	50n56	11e35	Jena
+Berlin	49n27	7e46	Kaiserslautern
+Berlin	49n01	8e25	Karlsruhe
+Berlin	51n19	9e30	Kassel
+Berlin	54n20	10e08	Kiel
+Berlin	50n21	7e36	Koblenz
+Berlin	47n40	9e11	Konstanz
+Berlin	51n20	6e34	Krefeld
+Berlin	51n18	12e20	Leipzig
+Berlin	51n01	7e00	Leverkusen
+Berlin	53n52	10e42	Lubeck
+Berlin	49n29	8e26	Ludwigshafen
+Berlin	52n10	11e40	Magdeburg
+Berlin	50n00	8e15	Mainz
+Berlin	49n29	8e29	Mannheim
+Berlin	51n12	6e25	Monchengladbach
+Berlin	48n10	11e35	Munich
+Berlin	51n58	7e38	Munster
+Berlin	49n28	11e05	Nurnberg
+Berlin	50n06	8e47	Offenbach
+Berlin	53n10	8e13	Oldenburg
+Berlin	52n16	8e03	Osnabruck
+Berlin	51n43	8e47	Paderborn
+Berlin	48n54	8e43	Pforzheim
+Berlin	52n24	13e02	Potsdam
+Berlin	49n01	12e06	Regensburg
+Berlin	48n30	9e13	Reutlingen
+Berlin	47n51	12e08	Rosenheim
+Berlin	54n05	12e08	Rostock
+Berlin	49n14	7e00	Saarbrucken
+Berlin	52n05	10e20	Salzgitter
+Berlin	53n38	11e23	Schwerin
+Berlin	50n52	8e05	Siegen
+Berlin	51n11	7e05	Solingen
+Berlin	48n46	9e11	Stuttgart
+Berlin	48n25	10e00	Ulm
+Berlin	50n05	8e16	Wiesbaden
+Berlin	52n26	10e48	Wolfsburg
+Berlin	51n17	7e12	Wuppertal
+Berlin	49n48	9e56	Wurzburg
+Berlin	50n44	12e30	Zwickau
+
+# Ghana
+# -
+
+# Gibraltar
+# -
+
+# Greece
+Athens	40n52	25e54	Alexandrupolis
+Athens	37n38	22e44	Argos
+Athens	38n24	22e33	Delphi
+Athens	35n30	24e02	Hania
+Athens	38n21	26e07	Hios
+Athens	35n19	25e08	Iraklion
+Athens	37n03	22e07	Kalamata
+Athens	35n33	27e12	Karpathos
+Athens	40n57	24e25	Kavala
+Athens	39n37	19e54	Kerkyra
+Athens	37n54	22e56	Korinth
+Athens	36n53	27e17	Kos
+Athens	39n38	22e25	Larissa
+Athens	39n15	26e16	Lesbos
+Athens	39n56	25e13	Limnos
+Athens	37n28	25e22	Mykonos
+Athens	37n04	25e30	Naxos
+Athens	37n20	26e32	Patmos
+Athens	38n15	21e45	Patras
+Athens	37n58	23e59	Piraeus
+Athens	37n41	21e28	Pirgos
+Athens	36n10	28e00	Rhodos
+Athens	37n45	26e49	Samos
+Athens	36n23	25e27	Santorini
+Athens	37n25	24e56	Siros
+Athens	40n38	22e56	Thessaloniki
+Athens	39n22	22e55	Volos
+
+# Greenland
+# -
+
+# Grenada
+# -
+
+# Guadeloupe
+# -
+
+# Guam
+# -
+
+# Guatemala
+# -
+
+# Guinea
+Conakry	10n26	9w21	Kankan
+
+# Guinea-Bissau
+# -
+
+# Guyana
+# -
+
+# Haiti
+# -
+
+# Honduras
+Tegucigalpa	15n26	88w01	San Pedro Sula
+Tegucigalpa	15n45	86w45	La Ceiba
+
+# Hong Kong
+# -
+
+# Hungary
+Budapest	47n32	21e37	Debrecen
+Budapest	47n41	17e38	Gyor
+Budapest	46n54	19e42	Kecskemet
+Budapest	48n06	20e47	Miskolc
+Budapest	47n57	21e43	Nyiregyhaza
+Budapest	46n05	18e14	Pecs
+Budapest	46n15	20e10	Szeged
+Budapest	47n12	18e25	Szekesfehervar
+
+# Iceland
+Reykjavik	65n40	18w06	Akureyri
+Reykjavik	65n15	14w23	Egilstadir
+Reykjavik	66n02	23w09	Isafjordur
+Reykjavik	64n01	22w33	Kevlavik
+
+# India
+Calcutta	27n14	78e03	Agra
+Calcutta	23n02	72e37	Ahmadabad
+Calcutta	25n26	81e51	Allahabad
+Calcutta	12n59	77e38	Bangalore
+Calcutta	25n19	83e02	Benares
+Calcutta	23n19	77e28	Bhopal
+Calcutta	18n57	72e55	Bombay
+Calcutta	27n04	88e22	Darjeeling
+Calcutta	28n42	77e14	Delhi
+Calcutta	26n10	91e50	Guwahati
+Calcutta	17n21	78e31	Hyderabad
+Calcutta	24n47	94e00	Imphal
+Calcutta	22n44	75e52	Indore
+Calcutta	26n56	75e49	Jaipur
+Calcutta	19n17	73e11	Kalyan
+Calcutta	26n29	80e15	Kanpur
+Calcutta	26n53	81e02	Lakhnau
+Calcutta	30n56	75e56	Ludhiana
+Calcutta	13n07	80e16	Madras
+Calcutta	9n53	78e10	Madurai
+Calcutta	21n10	79e07	Nagpur
+Calcutta	25n33	85e11	Patna
+Calcutta	18n29	73e53	Poona
+Calcutta	21n10	72e52	Surat
+Calcutta	22n17	73e15	Vadodara
+
+# Indonesia
+# Java & Sumatra
+Jakarta	5n26	95e25	Banda Aceh
+Jakarta	6s59	107e46	Bandung
+Jakarta	8s44	115e14	Denpasar
+Jakarta	8s42	116e13	Mataram
+Jakarta	8s05	112e41	Malang
+Jakarta	3n31	98e41	Medan
+Jakarta	1s07	100e30	Padang
+Jakarta	3s02	104e48	Palembang
+Jakarta	7s04	110e27	Semarang
+Jakarta	7s25	112e44	Surabaya
+Jakarta	5s25	105e16	Tanjungkarang
+# Borneo & Celebes
+Ujung_Pandang	1s14	116e52	Balikpapan
+Ujung_Pandang	3s30	114e40	Banjarmasin
+Ujung_Pandang	10s17	123e39	Kupang
+Ujung_Pandang	1n34	124e53	Manado
+Ujung_Pandang	0s56	119e53	Palu
+Ujung_Pandang	0s06	109e21	Pontianak
+Ujung_Pandang	0s29	117e10	Samarinda
+# Irian Jaya & the Moluccas
+Jayapura	3s39	128e09	Ambon
+Jayapura	0s53	131e16	Sorong
+Jayapura	0n54	127e20	Ternate
+
+# Iran
+Tehran	30n25	48e22	Abadan
+Tehran	31n20	48e35	Ahwaz
+Tehran	34n05	49e41	Arak
+Tehran	38n13	48e18	Ardabil
+Tehran	34n17	47e04	Bakhtaran
+Tehran	27n18	56e20	Bandar-e Abbas
+Tehran	28n55	50e54	Bandar-e Busher
+Tehran	32n31	48e20	Dezful
+Tehran	36n51	54e24	Gorgan
+Tehran	34n47	48e28	Hamadan
+Tehran	32n41	51e35	Isfahan
+Tehran	30n19	57e06	Kerman
+Tehran	33n29	48e21	Khorramabad
+Tehran	30n40	48e12	Khorramshar
+Tehran	36n16	59e37	Mashhad
+Tehran	36n16	50e03	Qazvin
+Tehran	34n39	50e51	Qum
+Tehran	29n39	52e32	Shiraz
+Tehran	37n59	46e14	Tabriz
+Tehran	37n31	45e05	Urumia
+Tehran	31n54	54e23	Yazd
+Tehran	29n35	60e51	Zahedan
+
+# Iraq
+Baghdad	32n28	44e29	Al Hiliah
+Baghdad	32n00	44e22	An Najaf
+Baghdad	36n09	44e03	Arbil
+Baghdad	30n26	47e43	Basra
+Baghdad	31n55	44e55	Diwaniya
+Baghdad	32n37	44e01	Karbala
+Baghdad	35n25	44e23	Kirkuk
+Baghdad	36n17	43e09	Mosul
+Baghdad	31n05	46e19	Nasiriya
+Baghdad	35n32	45e28	Sulaimaniya
+
+# Ireland
+Dublin	53n12	6w07	Bray
+Dublin	51n53	8w27	Cork
+Dublin	53n43	6w21	Drogheda
+Dublin	54n00	6w24	Dundalk
+Dublin	53n17	6w09	Dun Laoghaire
+Dublin	53n17	9w03	Galway
+Dublin	52n39	8w37	Limerick
+Dublin	54n18	8w29	Sligo
+Dublin	52n16	7w06	Waterford
+
+# Israel
+Jerusalem	31n48	34e39	Ashdod
+Jerusalem	31n40	34e34	Askelon
+Jerusalem	32n01	34e45	Bat Yam
+Jerusalem	31n14	34e48	Beersheba
+Jerusalem	29n34	34e55	Elat
+Jerusalem	32n26	34e55	Hadera
+Jerusalem	32n49	34e59	Haifa
+Jerusalem	32n09	34e49	Herzliya
+Jerusalem	32n00	34e47	Holon
+Jerusalem	32n19	34e52	Netanya
+Jerusalem	32n05	34e53	Peta Tikva
+Jerusalem	31n54	34e49	Rehovot
+Jerusalem	32n04	34e47	Tel Aviv Jaffa
+
+# Italy
+Rome	43n38	13e30	Ancona
+Rome	45n44	7e19	Aosta
+Rome	41n08	16e50	Bari
+Rome	45n41	9e43	Bergamo
+Rome	44n29	11e19	Bologna
+Rome	46n31	11e22	Bozen
+Rome	45n33	10e15	Brescia
+Rome	40n38	17e56	Brindisi
+Rome	39n14	9e08	Cagliary
+Rome	37n31	15e06	Catania
+Rome	38n54	16e33	Catanzaro
+Rome	42n08	11e47	Civitavecchia
+Rome	45n48	9e05	Como
+Rome	42n47	10e19	Elba
+Rome	44n50	11e35	Ferrara
+Rome	43n46	11e15	Firenze
+Rome	41n27	15e34	Foggia
+Rome	44n12	12e02	Forli
+Rome	44n25	8e57	Genova
+Rome	44n07	9e50	La Spezia
+Rome	41n28	12e51	Latina
+Rome	40n23	18e10	Lecce
+Rome	38n30	14e55	Lipari
+Rome	43n33	10e19	Livorno
+Rome	38n12	15e33	Messina
+Rome	45n30	12e12	Mestre
+Rome	45n28	9e12	Milano
+Rome	44n40	10e55	Modena
+Rome	45n35	9e16	Monza
+Rome	40n52	14e16	Napoli
+Rome	45n28	8e38	Novara
+Rome	45n25	11e53	Padova
+Rome	38n08	13e21	Palermo
+Rome	44n50	10e20	Parma
+Rome	43n08	12e24	Perugia
+Rome	42n28	14e13	Pescara
+Rome	45n01	9e40	Piacenza
+Rome	43n43	10e23	Pisa
+Rome	43n53	11e07	Prato
+Rome	44n25	12e12	Ravenna
+Rome	38n07	15e39	Reggio di Calabria
+Rome	44n43	10e36	Reggio nell'Emilia
+Rome	44n03	12e34	Rimini
+Rome	40n42	14e48	Salerno
+Rome	40n44	8e34	Sassari
+Rome	37n05	15e17	Siracusa
+Rome	40n27	17e15	Taranto
+Rome	42n34	12e38	Terni
+Rome	45n03	7e40	Torino
+Rome	40n48	14e24	Torre del Greco
+Rome	38n01	12e32	Trapani
+Rome	46n04	11e08	Trento
+Rome	45n40	13e46	Trieste
+Rome	46n03	13e14	Udine
+Rome	43n47	7e36	Ventimiglia
+Rome	45n27	11e21	Venezia
+Rome	45n27	11e00	Verona
+Rome	45n33	11e33	Vicenza
+
+# Jamaica
+# -
+
+# Japan
+Tokyo	28n15	129e42	Amami
+Tokyo	33n35	130e25	Fukuoka
+Tokyo	34n24	132e27	Hiroshima
+Tokyo	31n36	130e31	Kagoshima
+Tokyo	33n50	130e48	Kitakyushu
+Tokyo	34n43	135e13	Kobe
+Tokyo	32n48	130e43	Kumamoto
+Tokyo	35n01	135e45	Kyoto
+Tokyo	32n44	129e52	Nagasaki
+Tokyo	35n09	136e52	Nagoya
+Tokyo	34n38	133e58	Okayama
+Tokyo	26n13	127e40	Okinawa
+Tokyo	34n35	135e31	Osaka
+Tokyo	43n05	141e19	Sapporo
+Tokyo	38n18	140e54	Sendai
+Tokyo	35n26	139e38	Yokohama
+
+# Jordan
+Amman	29n31	35e08	Al Aqaba
+Amman	32n33	35e51	Irbid
+Amman	30n11	35e44	Maan
+Amman	32n04	36e06	Zarqa
+
+# Kazakhstan
+
+# KAZ-West
+# (assuming: west of 52.5 deg)
+Aqtau	47n07	52e05	Atyrau
+Aqtau	51n20	51e29	Oral
+
+# KAZ-Central
+# (assuming: west of 67.5 deg)
+Aqtobe	46n55	61e51	Aral
+Aqtobe	53n16	63e31	Qostanay
+Aqtobe	44n53	65e29	Qyzylorda
+
+# KAZ-East
+Almaty	51n14	71e30	Aqmola
+Almaty	42n21	69e36	Chymkent
+Almaty	53n17	69e24	Kokshetau
+Almaty	49n58	82e38	Oskemen
+Almaty	52n20	77e07	Pavlodar
+Almaty	54n53	69e12	Petropavlovsk
+Almaty	49n56	73e05	Qaraghandy
+Almaty	50n26	80e15	Semey
+Almaty	44n59	78e17	Taldygorghan
+Almaty	42n55	71e24	Zhambyl
+
+
+# Kenya
+Nairobi	0n08	34e48	Kisumu
+Nairobi	4s01	39e41	Mombasa
+Nairobi	0s16	36e02	Nakuru
+
+# Kiribati
+# -
+
+# Korea (North)
+Pyongyang	41n46	129e49	Chongjin
+Pyongyang	40n02	127e28	Hamhung
+Pyongyang	38n50	125e24	Nampo
+Pyongyang	40n01	124e29	Sinuiju
+
+# Korea (South)
+Seoul	35n10	126e54	Kwangju
+Seoul	35n07	129e06	Pusan
+Seoul	35n51	128e38	Taegu
+Seoul	36n21	127e25	Taejon
+
+# Kuwait
+# -
+
+# Kyrgyzstan
+Bishkek	40n32	72e50	Osh
+
+# Laos
+Vientiane	15n10	105e50	Bassac
+
+# Latvia
+Riga	55n55	26e23	Daugavpils
+Riga	56n39	23e41	Jelgava
+Riga	56n39	21e04	Liepaja
+
+# Lebanon
+# -
+
+# Lesotho
+# -
+
+# Liberia
+# -
+
+# Libya
+Tripoli	32n07	20e13	Benghazi
+Tripoli	32n18	15e02	Misurata
+Tripoli	27n26	14e30	Sabhah
+Tripoli	32n02	24e11	Tubruq
+
+# Liechtenstein
+# -
+
+# Lithuania
+Vilnius	55n46	21e09	Klaipeda
+Vilnius	54n53	23e55	Kaunas
+Vilnius	55n44	24e22	Panevezys
+Vilnius	56n02	23e13	Siauliai
+
+# Luxembourg
+# -
+
+# Macao
+# -
+
+# Macedonia
+Skopje	41n02	21e22	Bitola
+Skopje	42n09	21e46	Kumanovo
+Skopje	41n21	21e35	Prilep
+
+# Madagascar
+Antananarivo	12s19	49e16	Antsiranana
+Antananarivo	21s30	47e02	Fianarantsoa
+Antananarivo	15s41	46e24	Mahajanga
+Antananarivo	18s20	49e21	Toamasina
+Antananarivo	23s20	43e46	Toliary
+
+# Malawi
+Blantyre	13s58	33e49	Lilongwe
+
+# Malaysia
+# Sabar & Sarawak
+Kuching	5n56	116e11	Kota Kinabalu
+Kuching	5n53	118e02	Sandakan
+Kuching	2n19	111e49	Sibu
+# peninsular Malaysia
+Kuala_Lumpur	5n29	100e16	George Town
+Kuala_Lumpur	4n35	101e08	Ipoh
+Kuala_Lumpur	1n28	103e46	Johor Baharu
+Kuala_Lumpur	3n05	101e31	Kelang
+Kuala_Lumpur	6n04	102e15	Kota Baharu
+Kuala_Lumpur	5n13	103e06	Kuala Teregganu
+Kuala_Lumpur	3n50	103e19	Kuantan
+
+# Maldives
+# -
+
+# Mali
+# southwest
+Bamako	13n27	6w15	Segou
+# northeast
+Timbuktu	16n28	0e09	Gao
+
+# Malta
+# -
+
+# Marshall Islands
+# -
+
+# Martinique
+# -
+
+# Mauritania
+Nouakchott	16n12	13w17	Kaedi
+Nouakchott	20n50	17w06	Nouadhibou
+
+# Mauritius
+# -
+
+# Mayotte
+# -
+
+# Mexico
+
+# MEX-Central Time - most locations
+Mexico_City	16n51	99w55	Acapulco
+Mexico_City	21n50	102w22	Aguascalientes
+Mexico_City	22n27	97w56	Ciudad Madero
+Mexico_City	18n08	94w29	Coatzacoalcos
+Mexico_City	19n08	103w45	Colima
+Mexico_City	18n44	96w39	Cordoba
+Mexico_City	18n56	99w14	Cuernavaca
+Mexico_City	20n39	103w23	Guadalajara
+Mexico_City	20n49	101w27	Irapuato
+Mexico_City	17n57	102w13	Lazaro Cardenas
+Mexico_City	21n06	101w44	Leon
+Mexico_City	19n00	104w17	Manzanillo
+Mexico_City	19n40	101w09	Morelia
+Mexico_City	17n05	96w41	Oaxaca
+Mexico_City	20n05	98w48	Pachuca
+Mexico_City	20n32	97w29	Poza Rica
+Mexico_City	19n01	98w12	Puebla
+Mexico_City	20n34	100w24	Queretaro
+Mexico_City	16n45	92w38	San Cristobal de las Casas
+Mexico_City	22n10	101w02	San Luis Potosi
+Mexico_City	22n12	97w55	Tampico
+Mexico_City	14n54	92w15	Tapachula
+Mexico_City	16n21	95w13	Tehuantepec
+Mexico_City	19n14	99w45	Toluca
+Mexico_City	16n45	93w09	Tuxtla Gutierrez
+Mexico_City	19n21	102w08	Uruapan
+Mexico_City	19n08	96w13	Veracruz
+Mexico_City	18n00	92w53	Villahermosa
+Mexico_City	22n46	102w38	Zacatecas
+
+# MEX-Central Time - Quintana Roo
+Cancun	18n31	88w21	Chetumal
+
+# MEX-Central Time - Campeche, Yucatan
+Merida	19n45	90w30	Campeche
+Merida	18n38	91w50	Ciudad del Carmen
+
+# MEX-Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas
+Monterrey	23n42	99w10	Ciudad Victoria
+Monterrey	23n59	104w42	Durango
+Monterrey	25n46	97w42	Matamoros
+Monterrey	26n48	101w31	Monclova
+Monterrey	27n28	99w39	Nuevo Laredo
+Monterrey	26n00	98w17	Reynosa
+Monterrey	25n23	101w04	Saltillo
+Monterrey	25n30	103w31	Torreon
+
+# MEX-Mountain Time - S Baja, Nayarit, Sinola
+Mazatlan	24n44	107w25	Culiacan
+Mazatlan	24n06	110w18	La Paz
+Mazatlan	25n44	108e59	Los Mochis
+Mazatlan	20n35	105w22	Puerto Vallarta
+Mazatlan	27n22	112w28	Santa Rosalia
+Mazatlan	21n29	104w57	Tepic
+
+# MEX-Mountain Time - Chihuahua
+Chihuahua	31n38	106w37	Ciudad Juarez
+
+# MEX-Mountain Standard Time - Sonora
+Hermosillo	27n26	110w00	Ciudad Obregon
+Hermosillo	27n57	110w57	Guaymas
+Hermosillo	31n16	111w00	Nogales
+
+# MEX-Pacific Time
+Tijuana	31n49	116w35	Ensenada
+Tijuana	32n36	115w33	Mexicali
+
+
+# Micronesia
+# -
+
+# Moldova
+Chisinau	47n45	27e55	Balti
+Chisinau	47n45	29e01	Rybnica
+Chisinau	46n57	29e30	Tiraspol
+
+# Monaco
+# -
+
+# Mongolia
+# -
+
+# Montserrat
+# -
+
+# Morocco
+Casablanca	30n25	9w37	Agadir
+Casablanca	34n03	4w57	Fez
+Casablanca	31n41	8w01	Marrakech
+Casablanca	34n40	1w54	Ouida
+Casablanca	34n02	6w51	Rabat
+Casablanca	35n39	5w50	Tanger
+
+# Mozambique
+Maputo	19s35	34e52	Beira
+Maputo	15s08	39e16	Nampula
+Maputo	17s43	36e48	Quelimane
+
+# Myanmar (Burma)
+Rangoon	21n57	98e08	Mandalay
+Rangoon	20n07	92e53	Sittwe
+
+# Namibia
+Windhoek	26s46	15e11	Luderitz
+Windhoek	22s36	14e37	Swakopmund
+Windhoek	19s14	17e42	Tsumeb
+
+# Nauru
+# -
+
+# Nepal
+# -
+
+# Netherlands
+Amsterdam	52n12	5e59	Apeldoorn
+Amsterdam	51n59	5e55	Arnhem
+Amsterdam	51n35	4e48	Breda
+Amsterdam	52n05	4e17	Den Haag
+Amsterdam	51n49	4e40	Dordrecht
+Amsterdam	51n26	5e29	Eindhoven
+Amsterdam	52n13	6e54	Enschede
+Amsterdam	53n11	6e34	Groningen
+Amsterdam	52n23	4e37	Haarlem
+Amsterdam	52n10	4e30	Leiden
+Amsterdam	50n52	5e43	Maastricht
+Amsterdam	51n51	5e52	Nijmegen
+Amsterdam	51n55	4e28	Rotterdam
+Amsterdam	51n34	5e06	Tilburg
+Amsterdam	52n00	5e10	Utrecht
+Amsterdam	51n27	3e34	Vlissingen
+
+# Netherlands Antilles
+Curacao	12n11	68w23	Bonaire
+
+# New Caledonia
+# -
+
+# New Zealand
+# NZ-Most locations
+Auckland	43s33	172e40	Christchurch
+Auckland	45s52	170e30	Dunedin
+Auckland	38s41	178e02	Gisborne
+Auckland	37s46	175e18	Hamilton
+Auckland	46s26	168e21	Invercargill
+Auckland	41s12	174e54	Lower Hutt
+Auckland	36s59	174e53	Manukau
+Auckland	39s29	176e58	Napier-Hastings
+Auckland	41s18	173e17	Nelson
+Auckland	39s03	174e04	New Plymouth
+Auckland	40s20	175e39	Palmerston North
+Auckland	37s42	176e11	Tauranga
+Auckland	44s23	171e14	Timaru
+Auckland	41s17	174e47	Wellington
+Auckland	35s43	174e20	Whangarei
+# NZ-Chatham Islands
+# -
+
+# Nicaragua
+# -
+
+# Niger
+Niamey	17n01	7e58	Agadez
+Niamey	13n51	8e54	Zinder
+
+# Nigeria
+Lagos	9n00	7e01	Abuja
+Lagos	6n24	7e30	Enugu
+Lagos	7n26	3e56	Ibadan
+Lagos	10n31	7e26	Kaduna
+Lagos	11n59	8e31	Kano
+Lagos	11n49	13e11	Maiduguri
+Lagos	8n08	4e16	Ogbomosho
+Lagos	4n56	6e59	Port Harcourt
+Lagos	11n04	7e42	Zaria
+
+# Niue
+# -
+
+# Norfolk Island
+# -
+
+# Northern Mariana Islands
+# -
+
+# Norway
+Oslo	60n22	5e20	Bergen
+Oslo	67n17	14e23	Bodo
+Oslo	59n44	10e11	Drammen
+Oslo	59n11	10e52	Frederikstad
+Oslo	70n39	23e41	Hammerfest
+Oslo	58n10	8e05	Kristiansand
+Oslo	68n23	17e29	Narvik
+Oslo	58n55	5e39	Stavanger
+Oslo	69n40	18e59	Tromso
+Oslo	63n24	10e27	Trondheim
+
+# Oman
+Muscat	22n56	57e35	Naswa
+Muscat	17n05	54e06	Salalah
+Muscat	22n27	59e33	Sur
+
+# Pakistan
+Karachi	29n25	71e40	Bahawalpur
+Karachi	31n29	73e06	Faisalabad
+Karachi	35n59	74e26	Gilgit
+Karachi	32n13	74e14	Gujranwala
+Karachi	25n24	68e24	Hyderabad
+Karachi	33n45	73e15	Islamabad
+Karachi	31n36	74e23	Lahore
+Karachi	25n36	69e01	Mirpur Khas
+Karachi	30n13	71e25	Multan
+Karachi	34n05	71e40	Peshawar
+Karachi	30n15	67e04	Quetta
+Karachi	33n38	73e07	Rawalpindi
+Karachi	30n42	73e10	Sahiwal
+Karachi	32n33	74e35	Sialkot
+Karachi	27n47	68e51	Sukkur
+
+# Palau
+# -
+
+# Palestine
+# -
+
+# Panama
+Panama	9n36	79w43	Colon
+Panama	8n25	82w27	David
+Panama	8n08	80w59	Santiago
+
+# Papua New Guinea
+Port_Moresby	6s15	155e27	Arawa
+Port_Moresby	6s43	146e52	Lae
+Port_Moresby	5s14	145e39	Madang
+Port_Moresby	4s18	152e05	Rabaul
+Port_Moresby	3s34	143e35	Wewak
+
+# Paraguay
+Asuncion	23s19	57w18	Conception
+Asuncion	27s04	56w03	Encarnacion
+
+# Peru
+Lima	16s18	71w26	Areqipa
+Lima	12s02	77w05	Callao
+Lima	6s36	79w48	Chiclayo
+Lima	9s04	78w28	Chimbote
+Lima	13s20	71w58	Cusco
+Lima	11s59	75w07	Huancayo
+Lima	14s01	75w52	Ica
+Lima	3s37	73w16	Iquitos
+Lima	5s06	80w35	Piura
+Lima	8s14	74w37	Pucallpa
+Lima	4s42	80w37	Sullana
+Lima	18s01	70w15	Tacna
+Lima	7s55	78w57	Trujillo
+
+# Philippines
+Manila	15n08	120e32	Angeles
+Manila	10n38	123e04	Bacolod
+Manila	16n24	120e35	Baguio
+Manila	13n46	121e07	Batangas
+Manila	8n55	125e31	Butuan
+Manila	8n25	124e39	Cagayan de Oro
+Manila	12n08	124e36	Calbayog
+Manila	10n21	123e50	Cebu
+Manila	7n06	124e16	Cotabato
+Manila	7n06	125e31	Davao
+Manila	6n10	125e08	General Santos
+Manila	10n45	122e30	Iloilo
+Manila	18n09	120e37	Laoag
+Manila	13n05	123e40	Legazpi
+Manila	9n49	118e44	Puerto Princesa
+Manila	14n46	121e14	Quezon City
+Manila	11n30	122e47	Roxas
+Manila	14n05	121e18	San Pablo
+Manila	6n58	122e04	Zamboanga
+
+# Pitcairn
+# -
+
+# Poland
+Warsaw	53n08	23e10	Bialystok
+Warsaw	49n49	19e04	Bielsko-Biala
+Warsaw	53n08	18e00	Bydgoszcz
+Warsaw	50n21	18e52	Bytom
+Warsaw	50n19	18e58	Chorzow
+Warsaw	50n48	19e08	Czestochowa
+Warsaw	50n20	19e15	Dabrowa Gornicza
+Warsaw	54n10	19e24	Elblag
+Warsaw	54n22	18e38	Gdansk
+Warsaw	54n33	18e33	Gdynia
+Warsaw	50n18	18e39	Gliwice
+Warsaw	52n44	15e15	Gorzow Wielkopolski
+Warsaw	53n30	18e46	Grudziadz
+Warsaw	51n46	18e06	Kalisz
+Warsaw	50n15	19e01	Katowice
+Warsaw	50n53	20e38	Kielce
+Warsaw	54n12	16e12	Koszalin
+Warsaw	50n04	19e59	Krakow
+Warsaw	51n48	19e28	Lodz
+Warsaw	51n15	22e35	Lublin
+Warsaw	50n40	17e55	Opole
+Warsaw	52n33	19e43	Plock
+Warsaw	52n24	16e55	Poznan
+Warsaw	51n24	21e10	Radom
+Warsaw	50n15	18e52	Ruda-Slaska
+Warsaw	50n06	18e33	Rybnik
+Warsaw	50n02	22e01	Rzeszow
+Warsaw	54n28	17e01	Slupsk
+Warsaw	50n17	19e08	Sosnowiec
+Warsaw	53n31	14e33	Stettin
+Warsaw	53n01	18e36	Torun
+Warsaw	50n07	18e59	Tychy
+Warsaw	50n46	16e18	Walbrzych
+Warsaw	52n40	19e03	Wloclawek
+Warsaw	51n06	17e02	Wroclaw
+Warsaw	50n19	18e48	Zabrze
+Warsaw	51n56	15e30	Zielona Gora
+
+# Portugal
+Lisbon	41n33	8w26	Braga
+Lisbon	38n42	9w25	Cascais
+Lisbon	40n15	8w23	Coimbra
+Lisbon	38n34	7w54	Evora
+Lisbon	37n01	7w54	Faro
+Lisbon	37n05	8w40	Lagos
+Lisbon	41n10	8w37	Porto
+Lisbon	39n14	8w40	Santarem
+Lisbon	38n33	8w51	Setubal
+
+# Puerto Rico
+# -
+
+# Qatar
+# -
+
+# Reunion
+# -
+
+# Romania
+Bucharest	46n11	21e19	Arad
+Bucharest	46n34	26e54	Bacau
+Bucharest	47n45	23e33	Baia Mare
+Bucharest	47n40	26e43	Botosani
+Bucharest	45n19	27e59	Braila
+Bucharest	45n43	25e32	Brasov
+Bucharest	45n09	26e50	Buzau
+Bucharest	46n46	23e36	Cluj-Napoca
+Bucharest	44n11	28e39	Constanta
+Bucharest	44n19	23e48	Craiova
+Bucharest	44n39	22e42	Drobeta-Turnu Severin
+Bucharest	45n42	27e11	Focsani
+Bucharest	45n26	28e02	Galati
+Bucharest	47n10	27e36	Iasi
+Bucharest	47n04	21e56	Oradea
+Bucharest	46n56	26e22	Piatra Neamt
+Bucharest	44n51	24e53	Pitesti
+Bucharest	44n56	26e02	Ploiesti
+Bucharest	45n17	21e53	Resita
+Bucharest	45n06	24e22	Rimnicu Vilcea
+Bucharest	47n47	22e52	Satu Mare
+Bucharest	45n47	24e09	Sibiu
+Bucharest	47n38	26e15	Suceava
+Bucharest	45n45	21e14	Timisoara
+Bucharest	44n55	25e28	Tirgoviste
+Bucharest	46n33	24e33	Tirgu Mures
+
+
+# Russia
+
+# RUS-Kaliningrad (-1)
+# -
+
+# RUS-West Russia
+Moscow	64n38	40e42	+0 Arkhangelsk
+Moscow	46n20	47e54	+0 Astrakhan
+Moscow	50n42	36e26	+0 Belgorod
+Moscow	53n21	34e18	+0 Bryansk
+Moscow	43n24	45e47	+0 Groznyy
+Moscow	57n04	40e55	+0 Ivanovo
+Moscow	54n40	36e14	+0 Kaluga
+Moscow	56n00	49e21	+0 Kazan
+Moscow	57n52	40e56	+0 Kostroma
+Moscow	45n10	39e03	+0 Krasnodar
+Moscow	51n49	36e08	+0 Kursk
+Moscow	52n38	39e32	+0 Lipetsk
+Moscow	43n03	47e34	+0 Makhachkala
+Moscow	44n27	40e05	+0 Maykop
+Moscow	68n59	33e13	+0 Murmansk
+Moscow	43n27	43e40	+0 Nalchik
+Moscow	67n39	53e00	+0 Naryan Mar
+Moscow	56n18	44e01	+0 Nizhniy Novgorod
+Moscow	58n38	31e11	+0 Novgorod
+Moscow	53n01	36e04	+0 Orel
+Moscow	53n18	44e57	+0 Penza
+Moscow	61n50	34e09	+0 Petrozavodsk
+Moscow	57n51	28e18	+0 Pskov
+Moscow	47n19	39e38	+0 Rostov
+Moscow	54n38	39e40	+0 Ryazan
+Moscow	54n18	45e09	+0 Saransk
+Moscow	51n41	45e47	+0 Saratov
+Moscow	64n37	39e49	+0 Severodvinsk
+Moscow	54n55	31e48	+0 Smolensk
+Moscow	59n59	30e21	+0 St. Petersburg
+Moscow	45n05	41e58	+0 Stavropol
+Moscow	61n46	50e44	+0 Syktyvkar
+Moscow	52n44	41e19	+0 Tambov
+Moscow	54n14	37e32	+0 Tula
+Moscow	56n53	35e50	+0 Tver
+Moscow	43n04	44e43	+0 Vladikavkaz
+Moscow	56n15	40e13	+0 Vladimir
+Moscow	48n44	44e22	+0 Volgograd
+Moscow	59n12	39e55	+0 Vologda
+Moscow	51n45	39e09	+0 Voronezh
+Moscow	58n38	49e34	+0 Vyatka
+Moscow	56n42	47e59	+0 Yoshkar Ola
+
+# RUS-Caspian Sea
+Samara	56n55	53e13	+1 Izhevsk
+
+# RUS-Urals
+Yekaterinburg	55n12	61e26	+2 Chelyabinsk
+Yekaterinburg	61n02	69e10	+2 Khanty Mansiysk
+Yekaterinburg	55n30	65e10	+2 Kurgan
+Yekaterinburg	53n23	59e09	+2 Magnitogorsk
+Yekaterinburg	61n01	76e36	+2 Nizhnevartovsk
+Yekaterinburg	51n52	55e09	+2 Orenburg
+Yekaterinburg	58n02	56e23	+2 Perm
+Yekaterinburg	66n45	66e29	+2 Salekhard
+Yekaterinburg	61n17	72e50	+2 Surgut
+Yekaterinburg	57n05	65e28	+2 Tyumen
+Yekaterinburg	54n46	56e03	+2 Ufa
+
+# RUS-West Siberia (Omsk,+3)
+# -
+
+# RUS-Novosibirsk (+3)
+# -
+
+# RUS-Yenisei River
+Krasnoyarsk	53n42	91e26	+4 Abakan
+Krasnoyarsk	53n16	83e28	+4 Barnaul
+Krasnoyarsk	52n35	85e11	+4 Biysk
+Krasnoyarsk	69n25	86e16	+4 Dudinka
+Krasnoyarsk	55n25	86e04	+4 Kemerovo
+Krasnoyarsk	51n44	94e19	+4 Kyzyl
+Krasnoyarsk	53n49	87e09	+4 Novokuznetsk
+Krasnoyarsk	56n31	85e08	+4 Tomsk
+Krasnoyarsk	64n20	100e17	+4 Tura
+
+# RUS-Lake Baikal
+Irkutsk	52n33	103e53	+5 Angarsk
+Irkutsk	51n53	107e41	+5 Ulan-Ude
+
+# RUS-Lena River
+Yakutsk	50n25	127e39	+6 Blagoveshchensk
+Yakutsk	52n08	113e31	+6 Chita
+Yakutsk	59n04	126e29	+6 Tommot
+
+# RUS-Amur River
+Vladivostok	50n51	142e20	+7 Alexandrovsk
+Vladivostok	48n48	132e57	+7 Birobidzhan
+Vladivostok	48n28	135e15	+7 Khabarovsk
+Vladivostok	50n36	137e00	+7 Komsomolsk-na-Amure
+Vladivostok	46n55	142e48	+7 Yuzhno-Sakhalinsk
+
+# RUS-Magadan & Sakhalin
+Magadan	62n47	148e13	+8 Susuman
+
+# RUS-Kamchatka (+9)
+# -
+
+# RUS-Bering Sea (+10)
+# -
+
+
+# Rwanda
+# -
+
+# Samoa (American)
+# -
+
+# Samoa (Western)
+# -
+
+# San Marino
+# -
+
+# Sao Tome & Principe
+Sao_Tome	1n35	7e29	Principe
+
+# Saudi Arabia
+Riyadh	17n41	44e23	Aba Saud
+Riyadh	18n13	42e30	Abha
+Riyadh	21n19	40e29	At Taif
+Riyadh	26n20	43e57	Buraydah
+Riyadh	26n26	50e07	Dhahran
+Riyadh	27n32	41e44	Hail
+Riyadh	24n12	49e09	Haradh
+Riyadh	21n33	39e18	Jeddah
+Riyadh	16n55	42e40	Jizah
+Riyadh	26n14	39e13	Khaybar
+Riyadh	21n26	39e51	Mecca
+Riyadh	24n25	39e36	Medina
+Riyadh	28n24	36e34	Tabuk
+
+# Senegal
+# -
+
+# Seychelles
+# -
+
+# Sierra Leone
+# -
+
+# Singapore
+# -
+
+# Slovakia
+Bratislava	48n44	21e16	Kosice
+
+# Slovenia
+Ljubljana	46n33	15e39	Maribor
+
+# Solomon Islands
+# -
+
+# Somalia
+Mogadishu	10n21	45e02	Berbera
+Mogadishu	0s16	42e21	Chisimayu
+
+# South Africa
+Johannesburg	29s09	26e09	Bloemfontein
+Johannesburg	33s55	18e22	Cape Town
+Johannesburg	29s45	30e52	Durban
+Johannesburg	32s55	27e48	East London
+Johannesburg	28s42	24e46	Kimberley
+Johannesburg	33s43	25e34	Port Elisabeth
+Johannesburg	25s45	28e12	Pretoria
+Johannesburg	28s27	21e01	Upington
+
+# South Georgia & the South Sandwich Islands
+# -
+
+# Spain
+# Canary Islands
+Canary	29n02	13w35	Lanzarote
+Canary	28n13	16w30	Tenerife
+# mainland
+Madrid	43n23	8w22	A Coruna
+Madrid	39n00	1w51	Albacete
+Madrid	40n29	3w22	Alcala de Henares
+Madrid	36n07	5w28	Algeciras
+Madrid	38n20	0w29	Alicante
+Madrid	36n51	2w27	Almeria
+Madrid	38n55	6w56	Badajoz
+Madrid	41n29	2e19	Badalona
+Madrid	41n24	2e11	Barcelona
+Madrid	43n16	2w54	Bilbao
+Madrid	42n21	3w42	Burgos
+Madrid	36n32	6w17	Cadiz
+Madrid	37n36	0w59	Cartagena
+Madrid	39n58	0w01	Castellon de la Plana
+Madrid	37n53	4w46	Cordoba
+Madrid	38n15	0w42	Elche
+Madrid	43n32	5w39	Gijon
+Madrid	37n12	3w37	Granada
+Madrid	41n20	2e06	Hospitalet
+Madrid	37n16	6w53	Huelva
+Madrid	38n54	1e26	Ibiza
+Madrid	43n21	1w46	Irun
+Madrid	37n47	3w45	Jaen
+Madrid	40n19	3w43	Leganes
+Madrid	42n36	5w33	Leon
+Madrid	41n37	0e38	Lerida
+Madrid	42n28	2w27	Logrono
+Madrid	36n44	4w24	Malaga
+Madrid	41n32	2e27	Mataro
+Madrid	39n57	4e07	Menorca
+Madrid	38n00	1w07	Murcia
+Madrid	42n20	7w51	Ourense
+Madrid	43n22	5w49	Oviedo
+Madrid	39n34	2e42	Palma de Majorca
+Madrid	42n49	1w37	Pamplona
+Madrid	41n33	2e07	Sabadell
+Madrid	40n58	5w39	Salamanca
+Madrid	43n28	3w47	Santander
+Madrid	37n24	5w54	Sevilla
+Madrid	36n01	5w36	Tarifa
+Madrid	41n08	1e16	Tarragona
+Madrid	41n35	2e01	Terassa
+Madrid	39n53	4w00	Toledo
+Madrid	39n28	0w21	Valencia
+Madrid	41n40	4w44	Valladolid
+Madrid	42n13	8w42	Vigo
+Madrid	42n51	2w40	Vitoria
+Madrid	41n40	0w51	Zaragoza
+
+# Sri Lanka
+Colombo	9n42	80e01	Jaffna
+
+# St Helena
+# -
+
+# St Kitts & Nevis
+# -
+
+# St Lucia
+# -
+
+# St Pierre & Miquelon
+# -
+
+# St Vincent
+# -
+
+# Sudan
+Khartoum	17n38	34e06	Atbara
+Khartoum	13n38	25e21	El Fascher
+Khartoum	13n11	30e11	El Obeid
+Khartoum	4n54	31e33	Juba
+Khartoum	15n26	36e26	Kassala
+Khartoum	11n51	24e57	Nyala
+Khartoum	15n47	32e21	Omdurman
+Khartoum	19n38	37e12	Port Sudan
+Khartoum	21n47	31e23	Wadi Halfa
+
+# Suriname
+# -
+
+# Svalbard & Jan Mayen
+# -
+
+# Swaziland
+# -
+
+# Sweden
+Stockholm	57n42	12e53	Boras
+Stockholm	59n23	16e27	Eskilstuna
+Stockholm	60n26	15e26	Falun
+Stockholm	60n40	17e10	Gavle
+Stockholm	57n41	11e53	Goteborg
+Stockholm	56n02	12e44	Helsingborg
+Stockholm	57n44	14e09	Jonkoping
+Stockholm	56n41	16e19	Kalmar
+Stockholm	56n08	15e33	Karlskrona
+Stockholm	59n23	13e23	Karlstad
+Stockholm	67n47	20e17	Kiruna
+Stockholm	56n02	14e12	Kristianstad
+Stockholm	58n23	15e37	Linkoping
+Stockholm	65n34	22e07	Lulea
+Stockholm	55n40	13e08	Lund
+Stockholm	55n33	12e57	Malmo
+Stockholm	58n46	17e00	Nykoping
+Stockholm	58n37	16e07	Norrkoping
+Stockholm	59n17	15e08	Orebro
+Stockholm	63n11	18e43	Ornskoldsvik
+Stockholm	63n10	14e43	Ostersund
+Stockholm	64n43	21e00	Skelleftea
+Stockholm	62n22	17e15	Sundsvall
+Stockholm	63n49	20e14	Umea
+Stockholm	59n52	17e36	Uppsala
+Stockholm	59n36	16e27	Vasteras
+Stockholm	57n35	18e19	Visby
+
+# Switzerland
+Zurich	47n34	7e35	Basel
+Zurich	46n57	7e27	Bern
+Zurich	46n51	9e32	Chur
+Zurich	46n12	6e09	Geneve
+Zurich	46n31	6e38	Lausanne
+Zurich	46n00	8e57	Lugano
+Zurich	47n03	8e19	Luzern
+Zurich	47n26	9e23	St. Gallen
+
+# Syria
+Damascus	36n10	37e11	Aleppo
+Damascus	35n06	36e50	Hamath
+Damascus	34n41	36e43	Homs
+Damascus	37n01	41e17	Kamechlive
+Damascus	35n31	35e56	Latakia
+Damascus	35n13	40e07	Deir ez Zor
+Damascus	36n01	39e12	Raqqa
+
+# Taiwan
+Taipei	22n39	120e23	Kaohsiung
+Taipei	24n11	120e40	Taichung
+Taipei	23n01	120e16	Tainan
+
+# Tajikistan
+Dushanbe	37n59	69e56	Kulob
+Dushanbe	40n16	69e43	Khudzhand
+Dushanbe	37n36	71e43	Khorugh
+
+# Tanzania
+Dar_es_Salaam	6s16	35e42	Dodoma
+Dar_es_Salaam	8s56	33e23	Mbeya
+Dar_es_Salaam	1s30	33e48	Musoma
+Dar_es_Salaam	2s31	32e54	Mwanza
+Dar_es_Salaam	6s08	39e20	Sansibar
+Dar_es_Salaam	5s00	32e48	Tabora
+Dar_es_Salaam	5s01	38e59	Tanga
+
+# Thailand
+Bangkok	18n45	98e59	Chiang Mai
+Bangkok	6n57	100e30	Hat Yai
+Bangkok	14n57	102e04	Nakhon Ratchasima
+Bangkok	7n51	98e24	Phuket
+
+# Togo
+# -
+
+# Tokelau
+# -
+
+# Tonga
+# -
+
+# Trinidad & Tobago
+# -
+
+# Tunisia
+Tunis	33n53	10e07	Gabes
+Tunis	34n44	10e46	Safaqis
+
+# Turkey
+Istanbul	36n53	35e20	Adana
+Istanbul	39n54	32e52	Ankara
+Istanbul	36n54	30e48	Antalya
+Istanbul	39n39	27e54	Balikesir
+Istanbul	40n11	29e06	Bursa
+Istanbul	37n45	29e07	Denizli
+Istanbul	37n55	40e07	Diyarbakir
+Istanbul	41n40	26e34	Edirne
+Istanbul	38n36	39e19	Elazig
+Istanbul	39n54	41e24	Erzurum
+Istanbul	37n02	37e29	Gaziantep
+Istanbul	36n49	34e38	Icel
+Istanbul	36n32	36e14	Iskenderun
+Istanbul	38n24	27e09	Izmir
+Istanbul	40n52	30e02	Izmit
+Istanbul	38n40	35e29	Kayseri
+Istanbul	39n47	33e41	Kirikkale
+Istanbul	37n46	32e37	Konya
+Istanbul	38n19	38e23	Malatya
+Istanbul	37n35	36e57	Maras
+Istanbul	41n18	36e18	Samsun
+Istanbul	37n08	38e49	Sanliurfa
+Istanbul	39n45	37e02	Sivas
+Istanbul	40n58	39e44	Trabzon
+Istanbul	38n27	43e27	Van
+Istanbul	41n28	31e53	Zonguldak
+
+# Turkmenistan
+Ashgabat	41n55	59e57	Dashovouz
+Ashgabat	37n35	61e50	Mary
+Ashgabat	39n31	54e19	Nebitdag
+Ashgabat	40n04	53e02	Turkmenbashi
+
+# Turks & Caicos Is
+# -
+
+# Tuvalu
+# -
+
+# Uganda
+# -
+
+# Ukraine
+
+# UKR-Ruthenia
+# (assuming: =Zakarpatska)
+# -
+
+# UKR-Central Crimera
+Simferopol	45n24	36e24	Kerch
+Simferopol	44n40	33e34	Sevastopol
+
+# UKR-Zaporozh'ye, E Lugansk
+# (assuming: including Donetska+Kharkivska)
+Zaporozhye	48n01	37e42	Donetsk
+Zaporozhye	50n01	36e12	Kharkiv
+Zaporozhye	48n35	39e10	Luhansk
+Zaporozhye	47n13	37e25	Mariupol
+
+# UKR-Most locations
+# (assuming: including Dnipropetrovska)
+Kiev	49n23	31e52	Cherkasy
+Kiev	48n30	35e00	Dnipropetrovsk
+Kiev	48n55	24e43	Ivano-Frankivsk
+Kiev	46n42	32e37	Kherson
+Kiev	47n53	33e22	Krivyy Rih
+Kiev	47n01	32e04	Mikolayiv
+Kiev	46n28	30e44	Odesa
+Kiev	49n36	34e35	Poltava
+Kiev	50n59	34e37	Sumy
+Kiev	49n12	28e29	Vynnitsya
+Kiev	49n50	24e00	Lviv
+
+
+# United Arab Emirates
+Dubai	24n32	54e29	Abu Dhabi
+Dubai	24n10	52e29	Dhanna
+Dubai	25n23	55e24	Sharjah
+
+
+# United States
+
+# US-Alaska (AK)
+# (assuming: Barrow+Bethel+Kotzebue in 'west Alaska')
+Nome	71n16	156w48	AK Barrow
+Nome	60n46	161w46	AK Bethel
+Nome	66n53	162w32	AK Kotzebue
+Anchorage	64n50	147w39	AK Fairbanks
+Anchorage	59n38	151w31	AK Homer
+Anchorage	60n33	151w12	AK Kenai
+Anchorage	57n48	152w24	AK Kodiak
+Anchorage	61n36	149w07	AK Palmer
+Anchorage	60n07	149w24	AK Seward
+Anchorage	61n05	146w18	AK Valdez
+Juneau	55n21	131w40	AK Ketchikan
+Juneau	56n46	132w52	AK Petersburg
+Juneau	57n13	135w27	AK Sitka
+
+# US-Alabama (AL)
+Chicago	33n40	85w49	AL Anniston
+Chicago	32n36	85w29	AL Auburn
+Chicago	33n32	86w48	AL Birmingham
+Chicago	34n34	86w59	AL Decatur
+Chicago	31n14	85w24	AL Dothan
+Chicago	34n50	87w40	AL Florence
+Chicago	34n01	86w01	AL Gadsden
+Chicago	34n42	86w38	AL Huntsville
+Chicago	30n41	88w05	AL Mobile
+Chicago	32n21	86w17	AL Montgomery
+Chicago	33n14	87w32	AL Tuscaloosa
+
+# US-Arkansas (AR)
+Chicago	35n05	92w27	AR Conway
+Chicago	36n04	94w09	AR Fayetteville
+Chicago	35n22	94w23	AR Fort Smith
+Chicago	34n30	93w03	AR Hot Springs
+Chicago	35n49	90w41	AR Jonesboro
+Chicago	34n43	92w21	AR Little Rock
+Chicago	34n13	92w01	AR Pine Bluff
+Chicago	36n11	94w09	AR Springdale
+
+# US-Arizona (AZ)
+Phoenix	35n07	114w34	AZ Bullhead City
+Phoenix	32n54	111w44	AZ Casa Grande
+Phoenix	33n18	111w52	AZ Chandler
+Phoenix	31n21	109w32	AZ Douglas
+Phoenix	35n11	111w37	AZ Flagstaff
+Phoenix	33n35	112w12	AZ Glendale
+Phoenix	31n51	111w01	AZ Green Valley
+Phoenix	35n12	114w02	AZ Kingman
+Phoenix	34n30	114w19	AZ Lake Havasu City
+Phoenix	33n25	111w44	AZ Mesa
+Phoenix	34n35	112w27	AZ Prescott
+Phoenix	32n30	114w47	AZ San Luis
+Phoenix	33n41	111w52	AZ Scottsdale
+Phoenix	31n34	110w19	AZ Sierra Vista
+Phoenix	33n23	111w56	AZ Tempe
+Phoenix	32n12	110w54	AZ Tucson
+Phoenix	32n41	114w37	AZ Yuma
+
+# US-California (CA)
+Los_Angeles	33n50	117w52	CA Anaheim
+Los_Angeles	34n32	117w13	CA Apple Valley
+Los_Angeles	35n21	119w00	CA Bakersfield
+Los_Angeles	34n53	117w04	CA Barstow
+Los_Angeles	37n52	122w18	CA Berkeley
+Los_Angeles	39n45	121w48	CA Chico
+Los_Angeles	32n38	117w03	CA Chula Vista
+Los_Angeles	38n41	121w17	CA Citrus Heights
+Los_Angeles	37n58	122w00	CA Concord
+Los_Angeles	38n33	121w44	CA Davis
+Los_Angeles	32n47	115w34	CA El Centro
+Los_Angeles	33n08	117w04	CA Escondido
+Los_Angeles	40n48	124w09	CA Eureka
+Los_Angeles	38n15	122w02	CA Fairfield
+Los_Angeles	36n47	119w48	CA Fresno
+Los_Angeles	33n53	117w56	CA Fullerton
+Los_Angeles	33n47	117w58	CA Garden Grove
+Los_Angeles	34n11	118w15	CA Glendale
+Los_Angeles	36n20	119w39	CA Hanford
+Los_Angeles	37n38	122w06	CA Hayward
+Los_Angeles	33n44	117w00	CA Hemet
+Los_Angeles	34n25	117w18	CA Hesperia
+Los_Angeles	33n42	118w00	CA Huntington Beach
+Los_Angeles	33n43	116w14	CA Indio
+Los_Angeles	33n57	118w21	CA Inglewood
+Los_Angeles	33n40	117w48	CA Irvine
+Los_Angeles	34n42	118w11	CA Lancaster
+Los_Angeles	38n07	121w18	CA Lodi
+Los_Angeles	34n40	120w28	CA Lompoc
+Los_Angeles	33n47	118w10	CA Long Beach
+Los_Angeles	36n58	120w05	CA Madera
+Los_Angeles	37n48	121w13	CA Manteca
+Los_Angeles	37n18	120w29	CA Merced
+Los_Angeles	37n40	121w00	CA Modesto
+Los_Angeles	36n36	121w53	CA Monterey
+Los_Angeles	33n56	117w13	CA Moreno Valley
+Los_Angeles	38n18	122w18	CA Napa
+Los_Angeles	37n46	122w13	CA Oakland
+Los_Angeles	33n14	117w19	CA Oceanside
+Los_Angeles	34n03	117w36	CA Ontario
+Los_Angeles	33n48	117w49	CA Orange
+Los_Angeles	34n12	119w13	CA Oxnard
+Los_Angeles	33n47	116w32	CA Palm Springs
+Los_Angeles	37n24	122w08	CA Palo Alto
+Los_Angeles	39n45	121w36	CA Paradise
+Los_Angeles	34n10	118w08	CA Pasadena
+Los_Angeles	34n04	117w46	CA Pomona
+Los_Angeles	36n04	119w02	CA Porterville
+Los_Angeles	40n34	122w22	CA Redding
+Los_Angeles	35n38	117w40	CA Ridgecrest
+Los_Angeles	33n56	117w24	CA Riverside
+Los_Angeles	38n34	121w28	CA Sacramento
+Los_Angeles	36n41	121w38	CA Salinas
+Los_Angeles	34n08	117w18	CA San Bernardino
+Los_Angeles	32n49	117w08	CA San Diego
+Los_Angeles	37n48	122w33	CA San Francisco
+Los_Angeles	37n18	121w51	CA San Jose
+Los_Angeles	35n16	120w40	CA San Luis Obispo
+Los_Angeles	33n44	117w53	CA Santa Ana
+Los_Angeles	34n26	119w43	CA Santa Barbara
+Los_Angeles	34n25	118w31	CA Santa Clarita
+Los_Angeles	36n58	122w02	CA Santa Cruz
+Los_Angeles	34n56	120w26	CA Santa Maria
+Los_Angeles	34n01	118w30	CA Santa Monica
+Los_Angeles	34n21	119w04	CA Santa Paula
+Los_Angeles	38n27	122w42	CA Santa Rosa
+Los_Angeles	36n37	121w49	CA Seaside
+Los_Angeles	34n16	118w45	CA Simi Valley
+Los_Angeles	37n58	121w18	CA Stockton
+Los_Angeles	40n25	120w39	CA Susanville
+Los_Angeles	33n30	117w08	CA Temecula
+Los_Angeles	34n12	118w52	CA Thousand Oaks
+Los_Angeles	37n44	121w26	CA Tracy
+Los_Angeles	36n12	119w21	CA Tulare
+Los_Angeles	38n22	121w58	CA Vacaville
+Los_Angeles	38n06	122w16	CA Vallejo
+Los_Angeles	34n31	117w20	CA Victorville
+Los_Angeles	36n20	119w19	CA Visalia
+Los_Angeles	36n55	121w46	CA Watsonville
+Los_Angeles	38n41	121w46	CA Woodland
+Los_Angeles	41n44	122w38	CA Yreka
+Los_Angeles	39n08	121w37	CA Yuba City
+
+# US-Colorado (CO)
+Denver	39n49	105w06	CO Arvada
+Denver	39n12	106w50	CO Aspen
+Denver	39n43	104w44	CO Aurora
+Denver	40n02	105w15	CO Boulder
+Denver	38n26	105w14	CO Canon City
+Denver	38n52	104w46	CO Colorado Springs
+Denver	37n17	107w52	CO Durango
+Denver	40n33	105w04	CO Fort Collins
+Denver	39n05	108w33	CO Grand Junction
+Denver	40n25	104w45	CO Greeley
+Denver	40n10	105w07	CO Longmont
+Denver	40n25	105w04	CO Loveland
+Denver	38n16	104w37	CO Pueblo
+Denver	40n38	103w12	CO Sterling
+Denver	39n38	106w21	CO Vail
+
+# US-Connecticut (CT)
+New_York	41n11	73w12	CT Bridgeport
+New_York	41n46	72w41	CT Hartford
+New_York	41n19	72w55	CT New Haven
+New_York	41n34	73w02	CT Waterbury
+
+# US-Washington (DC), district of Columbia
+New_York	38n54	77w01	DC Washington
+
+# US-Delaware (DE)
+New_York	39n10	75w31	DE Dover
+New_York	38n41	75w23	DE Georgetown
+New_York	39n44	75w32	DE Wilmington
+
+# US-Florida (FL)
+Chicago	30n10	85w40	FL Panama City
+Chicago	30n27	87w11	FL Pensacola
+New_York	27n29	82w35	FL Bradenton
+New_York	28n24	80w37	FL Cape Canaveral
+New_York	26n38	82w00	FL Cape Coral
+New_York	27n59	82w46	FL Clearwater
+New_York	29n12	81w03	FL Daytona Beach
+New_York	28n55	81w13	FL Deltona
+New_York	26n09	80w08	FL Fort Lauderdale
+New_York	26n38	81w51	FL Fort Myers
+New_York	27n26	80w19	FL Fort Pierce
+New_York	29n40	82w20	FL Gainesville
+New_York	25n52	80w18	FL Hialeah
+New_York	26n02	80w10	FL Hollywood
+New_York	30n20	81w39	FL Jacksonville
+New_York	25n06	80w26	FL Key Largo
+New_York	24n34	81w47	FL Key West
+New_York	28n18	81w25	FL Kissimmee
+New_York	28n02	81w58	FL Lakeland
+New_York	28n07	80w38	FL Melbourne
+New_York	25n47	80w13	FL Miami
+New_York	25n49	80w08	FL Miami Beach
+New_York	29n11	82w08	FL Ocala
+New_York	28n30	81w22	FL Orlando
+New_York	26n59	82w07	FL Port Charlotte
+New_York	26n27	82w06	FL Sanibel
+New_York	27n20	82w33	FL Sarasota
+New_York	28n29	82w34	FL Spring Hill
+New_York	27n45	82w39	FL St. Petersburg
+New_York	30n27	84w17	FL Tallahassee
+New_York	27n58	82w29	FL Tampa
+New_York	28n35	80w49	FL Titusville
+New_York	26n45	80w08	FL West Palm Beach
+
+# US-Georgia (GA)
+New_York	31n35	84w11	GA Albany
+New_York	33n57	83w24	GA Athens
+New_York	33n46	84w25	GA Atlanta
+New_York	33n27	82w00	GA Augusta
+New_York	32n31	84w52	GA Columbus
+New_York	32n50	83w39	GA Macon
+New_York	34n16	85w11	GA Rome
+New_York	32n01	81w08	GA Savannah
+New_York	30n51	83w17	GA Valdosta
+
+# US-Hawaii (HI)
+Honolulu	20n45	156w20	HI Maui
+Honolulu	19n25	155w30	HI Hawaii
+Honolulu	22n00	159w30	HI Kauai
+
+# US-Iowa (IA)
+Chicago	42n01	93w38	IA Ames
+Chicago	40n49	91w07	IA Burlington
+Chicago	41n58	91w40	IA Cedar Rapids
+Chicago	41n51	90w14	IA Clinton
+Chicago	41n33	90w36	IA Davenport
+Chicago	41n35	93w37	IA Des Moines
+Chicago	42n30	90w41	IA Dubuque
+Chicago	42n30	94w11	IA Fort Dodge
+Chicago	41n39	91w32	IA Iowa City
+Chicago	42n02	92w55	IA Marshalltown
+Chicago	43n09	93w12	IA Mason City
+Chicago	42n30	96w24	IA Sioux City
+Chicago	42n29	92w21	IA Waterloo
+
+# US-Idaho (ID)
+Los_Angeles	47n42	116w47	ID Coeur d'Alene
+Los_Angeles	46n24	117w00	ID Lewiston
+Los_Angeles	46n44	117w00	ID Moscow
+Boise	43n40	116w40	ID Caldwell
+Boise	43n30	112w02	ID Idaho Falls
+Boise	43n35	116w34	ID Nampa
+Boise	42n53	112w28	ID Pocatello
+Boise	43n50	111w47	ID Rexburg
+Boise	42n34	114w28	ID Twin Falls
+
+# US-Illinois (IL)
+Chicago	40n29	88w58	IL Bloomington
+Chicago	37n43	89w13	IL Carbondale
+Chicago	40n07	88w16	IL Champaign
+Chicago	40n09	87w37	IL Danville
+Chicago	41n56	88w45	IL De Kalb
+Chicago	39n51	88w56	IL Decatur
+Chicago	38n37	90w08	IL East St. Louis
+Chicago	42n17	89w38	IL Freeport
+Chicago	40n57	90w23	IL Galesburg
+Chicago	41n29	90w29	IL Moline
+Chicago	40n45	89w37	IL Peoria
+Chicago	39n56	91w23	IL Quincy
+Chicago	42n16	89w04	IL Rockford
+Chicago	39n47	89w39	IL Springfield
+Chicago	40n07	88w12	IL Urbana
+
+# US-Indiana (IN)
+Chicago	37n59	87w33	IN Evansville
+Chicago	41n36	87w21	IN Gary
+Chicago	41n43	86w53	IN Michigan City
+Indianapolis	40n06	85w41	IN Anderson
+Indianapolis	39n10	86w31	IN Bloomington
+Indianapolis	39n13	85w55	IN Columbus
+Indianapolis	41n41	85w58	IN Elkhart
+Indianapolis	41n04	85w08	IN Fort Wayne
+Indianapolis	40n29	86w08	IN Kokomo
+Indianapolis	40n25	86w52	IN Lafayette
+Indianapolis	40n33	85w40	IN Marion
+Indianapolis	40n12	85w23	IN Muncie
+Indianapolis	39n50	84w53	IN Richmond
+Indianapolis	41n41	86w16	IN South Bend
+Indianapolis	39n28	87w23	IN Terre Haute
+
+# US-Kansas (KS)
+Chicago	38n25	96w12	KS Emporia
+Chicago	37n59	100w52	KS Garden City
+Chicago	38n04	97w55	KS Hutchinson
+Chicago	38n58	95w15	KS Lawrence
+Chicago	39n19	94w55	KS Leavenworth
+Chicago	39n11	96w35	KS Manhattan
+Chicago	38n55	94w41	KS Overland Park
+Chicago	38n49	97w37	KS Salina
+Chicago	39n02	95w42	KS Topeka
+Chicago	37n41	97w21	KS Wichita
+
+# US-Kentucky (KY)
+Chicago	36n58	86w26	KY Bowling Green
+Chicago	36n51	87w29	KY Hopkinsville
+Chicago	37n46	87w07	KY Owensboro
+New_York	38n11	84w52	KY Frankfort
+New_York	38n03	84w28	KY Lexington
+
+# US-Louisiana (LA)
+Chicago	31n18	92w28	LA Alexandria
+Chicago	30n27	91w08	LA Baton Rouge
+Chicago	29n35	90w42	LA Houma
+Chicago	30n13	92w02	LA Lafayette
+Chicago	30n13	93w12	LA Lake Charles
+Chicago	30n00	90w11	LA Metairie
+Chicago	32n31	92w05	LA Monroe
+Chicago	30n00	91w49	LA New Iberia
+Chicago	30n04	89w56	LA New Orleans
+Chicago	32n28	93w48	LA Shreveport
+
+# US-Massachusetts (MA)
+New_York	42n20	71w01	MA Boston
+New_York	41n39	70w18	MA Hyannis
+New_York	41n40	70w56	MA New Bedford
+New_York	42n07	72w32	MA Springfield
+New_York	42n16	71w49	MA Worcester
+
+# US-Maryland (MD)
+New_York	39n31	76w10	MD Aberdeen
+New_York	38n58	76w30	MD Annapolis
+New_York	39n18	76w37	MD Baltimore
+New_York	38n59	77w07	MD Bethesda
+New_York	38n34	76w05	MD Cambridge
+New_York	39n12	76w51	MD Columbia
+New_York	39n39	78w46	MD Cumberland
+New_York	39n16	76w30	MD Dundalk
+New_York	39n18	76w27	MD Essex
+New_York	39n26	77w25	MD Frederick
+New_York	39n38	77w43	MD Hagerstown
+New_York	39n24	76w29	MD Perry Hall
+New_York	39n05	77w09	MD Rockville
+New_York	38n22	75w35	MD Salisbury
+New_York	39n01	77w01	MD Silver Spring
+New_York	38n36	76w55	MD St. Charles
+New_York	39n24	76w37	MD Towson
+New_York	39n03	77w03	MD Wheaton
+
+# US-Maine (ME)
+New_York	44n05	70w15	ME Auburn
+New_York	44n20	69w44	ME Augusta
+New_York	44n50	68w47	ME Bangor
+New_York	44n23	68w13	ME Bar Harbor
+New_York	43n28	70w27	ME Biddeford
+New_York	43n55	69w56	ME Brunswick
+New_York	44n05	70w10	ME Lewiston
+New_York	43n40	70w12	ME Portland
+New_York	46n41	67w59	ME Presque Isle
+New_York	43n32	70w27	ME Saco
+New_York	43n26	70w47	ME Sanford
+New_York	44n33	69w40	ME Waterville
+
+# US-Michigan (MI)
+Chicago	45n04	83w26	MI Alpena
+Chicago	42n17	83w44	MI Ann Arbor
+Chicago	42n18	85w14	MI Battle Creek
+Chicago	43n35	83w53	MI Bay City
+Chicago	42n23	83w06	MI Detroit
+Chicago	43n01	83w42	MI Flint
+Chicago	42n58	85w39	MI Grand Rapids
+Chicago	42n46	86w06	MI Holland
+Chicago	42n15	84w24	MI Jackson
+Chicago	42n16	85w35	MI Kalamazoo
+Chicago	42n43	84w33	MI Lansing
+Chicago	42n24	83w22	MI Livonia
+Chicago	43n57	86w27	MI Ludington
+Chicago	43n37	84w14	MI Midland
+Chicago	43n14	86w15	MI Muskegon
+Chicago	43n00	82w26	MI Port Huron
+Chicago	43n25	83w57	MI Saginaw
+Chicago	46n29	84w22	MI Sault Ste. Marie
+Chicago	42n35	83w02	MI Sterling Heights
+Chicago	42n30	83w02	MI Warren
+
+# US-Minnesota (MN)
+Chicago	46n47	92w07	MN Duluth
+Chicago	47n14	93w31	MN Grand Rapids
+Chicago	48n35	93w24	MN International Falls
+Chicago	44n10	93w59	MN Mankato
+Chicago	44n58	93w16	MN Minneapolis
+Chicago	46n52	96w45	MN Moorhead
+Chicago	44n01	92w29	MN Rochester
+Chicago	45n33	94w10	MN St. Cloud
+Chicago	44n57	93w06	MN St. Paul
+Chicago	44n03	91w39	MN Winona
+
+# US-Missouri (MO)
+Chicago	37n18	89w33	MO Cape Girardeau
+Chicago	38n57	92w20	MO Columbia
+Chicago	39n05	94w21	MO Independence
+Chicago	38n34	92w11	MO Jefferson City
+Chicago	37n05	94w30	MO Joplin
+Chicago	39n07	94w33	MO Kansas City
+Chicago	39n00	94w28	MO Raytown
+Chicago	37n12	93w17	MO Springfield
+Chicago	38n38	90w15	MO St. Louis
+
+# US-Mississippi (MS)
+Chicago	30n25	88w56	MS Biloxi
+Chicago	33n23	91w03	MS Greenville
+Chicago	30n23	89w04	MS Gulfport
+Chicago	31n19	89w18	MS Hattiesburg
+Chicago	32n19	90w12	MS Jackson
+Chicago	32n23	88w43	MS Meridian
+Chicago	30n22	88w33	MS Pascagoula
+Chicago	34n16	88w44	MS Tupelo
+
+# US-Montana (MT)
+Denver	45n47	108w32	MT Billings
+Denver	45n41	111w03	MT Bozeman
+Denver	45n58	112w21	MT Butte
+Denver	48n12	106w38	MT Glasgow
+Denver	47n07	104w42	MT Glendive
+Denver	47n30	111w17	MT Great Falls
+Denver	48n33	109w41	MT Havre
+Denver	46n36	112w01	MT Helena
+Denver	48n12	114w19	MT Kalispell
+Denver	46n52	114w00	MT Missoula
+
+# US-North Carolina (NC)
+New_York	35n34	82w33	NC Asheville
+New_York	36n05	79w27	NC Burlington
+New_York	35n12	80w50	NC Charlotte
+New_York	35n24	80w36	NC Concord
+New_York	35n59	78w55	NC Durham
+New_York	35n04	78w54	NC Fayetteville
+New_York	35n15	81w10	NC Gastonia
+New_York	35n22	77w59	NC Goldsboro
+New_York	36n05	79w50	NC Greensboro
+New_York	35n36	77w22	NC Greenville
+New_York	35n44	81w20	NC Hickory
+New_York	35n59	80w00	NC High Point
+New_York	34n46	77w24	NC Jacksonville
+New_York	35n29	80w37	NC Kannapolis
+New_York	35n17	77w35	NC Kinston
+New_York	35n49	78w40	NC Raleigh
+New_York	35n57	77w49	NC Rocky Mount
+New_York	34n13	77w55	NC Wilmington
+New_York	35n44	77w55	NC Wilson
+New_York	36n06	80w16	NC Winston-Salem
+
+# US-North Dakota (ND)
+Denver	46n53	102w47	ND Dickinson
+Chicago	46n48	100w46	ND Bismarck
+Chicago	46n53	96w49	ND Fargo
+Chicago	47n55	97w04	ND Grand Forks
+Chicago	46n55	98w42	ND Jamestown
+Chicago	46n50	100w53	ND Mandan
+Chicago	48n14	101w18	ND Minot
+Chicago	48n10	103w38	ND Williston
+
+# US-Nebraska (NE)
+Denver	41n52	103w40	NE Scottsbluff
+Chicago	40n16	96w45	NE Beatrice
+Chicago	41n26	97w21	NE Columbus
+Chicago	41n26	96w30	NE Fremont
+Chicago	40n55	98w22	NE Grand Island
+Chicago	40n35	98w23	NE Hastings
+Chicago	40n42	99w05	NE Kearney
+Chicago	40n49	96w41	NE Lincoln
+Chicago	42n02	97w25	NE Norfolk
+Chicago	41n08	100w46	NE North Platte
+Chicago	41n16	96w01	NE Omaha
+
+# US-New Hampshire (NH)
+New_York	43n14	71w34	NH Concord
+New_York	43n38	72w15	NH Lebanon
+New_York	42n59	71w27	NH Manchester
+New_York	42n45	71w30	NH Nashua
+New_York	43n03	70w47	NH Portsmouth
+
+# US-New Jersey (NJ)
+New_York	39n23	74w27	NJ Atlantic City
+New_York	40n40	74w12	NJ Elizabeth
+New_York	40n43	74w10	NJ Newark
+New_York	40n55	74w10	NJ Paterson
+New_York	40n13	74w46	NJ Trenton
+New_York	39n28	75w00	NJ Vineland
+
+# US-New Mexico (NM)
+Denver	32n53	105w57	NM Alamogordo
+Denver	35n07	106w37	NM Albuquerque
+Denver	32n51	104w26	NM Artesia
+Denver	32n24	104w14	NM Carlsbad
+Denver	34n25	103w12	NM Clovis
+Denver	36n45	108w11	NM Farmington
+Denver	35n31	108w44	NM Gallup
+Denver	32n44	103w10	NM Hobbs
+Denver	32n20	106w45	NM Las Cruces
+Denver	35n36	105w13	NM Las Vegas
+Denver	35n54	106w17	NM Los Alamos
+Denver	34n11	103w21	NM Portales
+Denver	35n41	105w57	NM Santa Fe
+Denver	32n47	108w16	NM Silver City
+
+# US-Nevada (NV)
+Los_Angeles	39n09	119w45	NV Carson
+Los_Angeles	40n50	115w46	NV Elko
+Los_Angeles	39n15	114w53	NV Ely
+Los_Angeles	36n02	115w00	NV Henderson
+Los_Angeles	36n12	115w13	NV Las Vegas
+Los_Angeles	39n32	119w49	NV Reno
+Los_Angeles	39n33	119w44	NV Sparks
+
+# US-New York (NY)
+New_York	42n40	73w48	NY Albany
+New_York	42n56	76w34	NY Auburn
+New_York	42n06	75w55	NY Binghamton
+New_York	42n53	78w52	NY Buffalo
+New_York	42n06	76w49	NY Elmira
+New_York	42n27	76w30	NY Ithaca
+New_York	42n06	79w14	NY Jamestown
+New_York	40n35	73w40	NY Long Beach
+New_York	41n30	74w01	NY Newburgh
+New_York	43n05	79w01	NY Niagara Falls
+New_York	44n42	73w27	NY Plattsburgh
+New_York	41n42	73w55	NY Poughkeepsie
+New_York	43n10	77w37	NY Rochester
+New_York	43n14	75w29	NY Rome
+New_York	42n48	73w56	NY Schenectady
+New_York	43n02	76w09	NY Syracuse
+New_York	42n44	73w41	NY Troy
+New_York	43n06	75w14	NY Utica
+New_York	43n58	75w55	NY Watertown
+New_York	40n57	73w52	NY Yonkers
+
+# US-Ohio (OH)
+New_York	41n05	81w31	OH Akron
+New_York	41n23	83w39	OH Bowling Green
+New_York	40n49	81w22	OH Canton
+New_York	39n08	84w30	OH Cincinnati
+New_York	41n29	81w41	OH Cleveland
+New_York	39n59	82w59	OH Columbus
+New_York	39n47	84w12	OH Dayton
+New_York	41n03	83w39	OH Findlay
+New_York	39n43	82w36	OH Lancaster
+New_York	40n45	84w07	OH Lima
+New_York	40n46	82w32	OH Mansfield
+New_York	40n35	83w08	OH Marion
+New_York	40n47	81w31	OH Massillon
+New_York	39n30	84w22	OH Middletown
+New_York	40n04	82w25	OH Newark
+New_York	41n27	82w43	OH Sandusky
+New_York	39n56	83w48	OH Springfield
+New_York	41n40	83w35	OH Toledo
+New_York	41n14	80w49	OH Warren
+New_York	41n06	80w39	OH Youngstown
+New_York	39n57	82w01	OH Zanesville
+
+# US-Oklahoma (OK)
+Chicago	36n44	95w57	OK Bartlesville
+Chicago	36n25	97w52	OK Enid
+Chicago	36n41	101w29	OK Guymon
+Chicago	34n36	98w25	OK Lawton
+Chicago	35n45	95w21	OK Muskogee
+Chicago	35n28	97w31	OK Oklahoma City
+Chicago	36n43	97w04	OK Ponca City
+Chicago	35n22	96w58	OK Shawnee
+Chicago	36n08	97w04	OK Stillwater
+Chicago	36n08	95w55	OK Tulsa
+
+# US-Oregon (OR)
+Boise	44n01	116w58	OR Ontario
+Los_Angeles	44n37	123w05	OR Albany
+Los_Angeles	42n12	121w43	OR Altamont
+Los_Angeles	42n11	122w42	OR Ashland
+Los_Angeles	46n11	123w49	OR Astoria
+Los_Angeles	45n29	122w49	OR Beaverton
+Los_Angeles	44n04	121w19	OR Bend
+Los_Angeles	43n35	119w04	OR Burns
+Los_Angeles	43n23	124w14	OR Coos Bay
+Los_Angeles	44n34	123w17	OR Corvallis
+Los_Angeles	44n03	123w07	OR Eugene
+Los_Angeles	42n26	123w19	OR Grants Pass
+Los_Angeles	45n30	122w26	OR Gresham
+Los_Angeles	45n50	119w17	OR Hermiston
+Los_Angeles	42n13	121w46	OR Klamath Falls
+Los_Angeles	45n20	118w05	OR La Grande
+Los_Angeles	44n32	122w54	OR Lebanon
+Los_Angeles	45n13	123w11	OR McMinnville
+Los_Angeles	42n20	122w51	OR Medford
+Los_Angeles	45n40	118w49	OR Pendleton
+Los_Angeles	45n32	122w39	OR Portland
+Los_Angeles	43n13	123w21	OR Roseburg
+Los_Angeles	44n55	123w01	OR Salem
+Los_Angeles	44n03	122w59	OR Springfield
+
+# US-Pennsylvania (PA)
+New_York	40n36	75w29	PA Allentown
+New_York	40n30	78w24	PA Altoona
+New_York	40n38	75w22	PA Bethlehem
+New_York	42n08	80w05	PA Erie
+New_York	40n17	76w53	PA Harrisburg
+New_York	40n20	78w55	PA Johnstown
+New_York	40n03	76w18	PA Lancaster
+New_York	41n00	80w21	PA New Castle
+New_York	40n00	75w08	PA Philadelphia
+New_York	40n26	79w59	PA Pittsburgh
+New_York	40n20	75w56	PA Reading
+New_York	41n24	75w40	PA Scranton
+New_York	41n15	75w53	PA Wilkes-Barre
+New_York	41n14	77w02	PA Williamsport
+New_York	39n58	76w44	PA York
+
+# US-Rhode Island (RI)
+New_York	41n29	71w19	RI Newport
+New_York	41n49	71w25	RI Providence
+
+# US-South Carolina (SC)
+New_York	34n31	82w39	SC Anderson
+New_York	32n47	80w00	SC Charleston
+New_York	34n02	80w53	SC Columbia
+New_York	34n11	79w47	SC Florence
+New_York	34n50	82w22	SC Greenville
+New_York	34n56	81w02	SC Rock Hill
+New_York	34n57	81w56	SC Spartanburg
+New_York	33n57	80w24	SC Sumter
+
+# US-South Dakota (SD)
+Denver	44n05	103w14	SD Rapid City
+Chicago	45n28	98w29	SD Aberdeen
+Chicago	44n18	96w47	SD Brookings
+Chicago	44n22	98w13	SD Huron
+Chicago	43n44	98w02	SD Mitchell
+Chicago	44n22	100w19	SD Pierre
+Chicago	43n33	96w44	SD Sioux Falls
+Chicago	42n47	96w56	SD Vermillion
+Chicago	44n55	97w10	SD Watertown
+Chicago	42n53	97w24	SD Yankton
+
+# US-Tenessee (TN)
+Chicago	36n34	87w21	TN Clarksville
+Chicago	35n37	87w03	TN Columbia
+Chicago	35n38	88w50	TN Jackson
+Chicago	35n06	90w00	TN Memphis
+Chicago	35n51	86w24	TN Murfreesboro
+Chicago	36n10	86w47	TN Nashville
+New_York	35n04	85w15	TN Chattanooga
+New_York	35n11	84w52	TN Cleveland
+New_York	35n58	83w57	TN Knoxville
+New_York	35n58	84w18	TN Oak Ridge
+
+# US-Texas (TX)
+Denver	31n51	106w26	TX El Paso
+Chicago	32n27	99w44	TX Abilene
+Chicago	35n12	101w49	TX Amarillo
+Chicago	32n42	97w08	TX Arlington
+Chicago	30n18	97w45	TX Austin
+Chicago	30n05	94w09	TX Beaumont
+Chicago	25n56	97w29	TX Brownsville
+Chicago	30n40	96w22	TX Bryan
+Chicago	27n42	97w18	TX Corpus Christi
+Chicago	32n48	96w46	TX Dallas
+Chicago	29n23	100w54	TX Del Rio
+Chicago	33n13	97w08	TX Denton
+Chicago	26n18	98w10	TX Edinburg
+Chicago	32n45	97w20	TX Fort Worth
+Chicago	29n14	94w54	TX Galveston
+Chicago	32n55	96w38	TX Garland
+Chicago	26n12	97w41	TX Harlingen
+Chicago	29n46	95w23	TX Houston
+Chicago	30n43	95w33	TX Huntsville
+Chicago	32n51	96w58	TX Irving
+Chicago	31n06	97w43	TX Killeen
+Chicago	27n31	97w52	TX Kingsville
+Chicago	27n32	99w29	TX Laredo
+Chicago	32n31	94w46	TX Longview
+Chicago	33n35	101w53	TX Lubbock
+Chicago	31n20	94w44	TX Lufkin
+Chicago	26n13	98w14	TX McAllen
+Chicago	32n02	102w06	TX Midland
+Chicago	31n37	94w39	TX Nacogdoches
+Chicago	29n42	98w07	TX New Braunfels
+Chicago	31n52	102w21	TX Odessa
+Chicago	29n50	93w56	TX Port Arthur
+Chicago	31n27	100w27	TX San Angelo
+Chicago	29n27	98w30	TX San Antonio
+Chicago	29n53	97w56	TX San Marcos
+Chicago	33n37	96w37	TX Sherman
+Chicago	31n06	97w22	TX Temple
+Chicago	33n26	94w04	TX Texarkana
+Chicago	29n25	94w57	TX Texas City
+Chicago	32n20	95w18	TX Tyler
+Chicago	28n49	96w59	TX Victoria
+Chicago	31n34	97w11	TX Waco
+Chicago	33n54	98w31	TX Wichita Falls
+
+# US-Utah (UT)
+Denver	41n31	112w01	UT Brigham City
+Denver	37n41	113w04	UT Cedar City
+Denver	41n44	111w50	UT Logan
+Denver	41n14	111w58	UT Ogden
+Denver	40n18	111w42	UT Orem
+Denver	40n15	111w39	UT Provo
+Denver	38n46	112w05	UT Richfield
+Denver	40n47	111w56	UT Salt Lake City
+Denver	40n34	111w51	UT Sandy
+Denver	37n05	113w35	UT St. George
+Denver	40n32	112w18	UT Tooele
+Denver	40n36	112w00	UT West Jordan
+
+# US-Virgina (VA)
+New_York	38n49	77w05	VA Alexandria
+New_York	38n53	77w06	VA Arlington
+New_York	38n02	78w29	VA Charlottesville
+New_York	36n35	79w24	VA Danville
+New_York	37n03	76w18	VA Hampton
+New_York	38n26	78w52	VA Harrisonburg
+New_York	37n24	79w11	VA Lynchburg
+New_York	37n05	76w31	VA Newport News
+New_York	36n55	76w15	VA Norfolk
+New_York	37n12	77w24	VA Petersburg
+New_York	36n51	76w21	VA Portsmouth
+New_York	37n32	77w28	VA Richmond
+New_York	37n17	79w58	VA Roanoke
+New_York	36n44	76w03	VA Virginia Beach
+
+# US-Vermont (VT)
+New_York	42n52	72w34	VT Brattleboro
+New_York	44n29	73w14	VT Burlington
+New_York	43n37	72w59	VT Rutland
+
+# US-Washington (WA)
+Los_Angeles	48n45	122w28	WA Bellingham
+Los_Angeles	47n33	122w42	WA Bremerton
+Los_Angeles	46n12	119w10	WA Kennewick
+Los_Angeles	46n09	122w57	WA Longview
+Los_Angeles	47n07	119w17	WA Moses Lake
+Los_Angeles	47n03	122w54	WA Olympia
+Los_Angeles	48n07	122w47	WA Port Townsend
+Los_Angeles	46n18	119w17	WA Richland
+Los_Angeles	47n37	122w21	WA Seattle
+Los_Angeles	47n40	117w25	WA Spokane
+Los_Angeles	47n15	122w28	WA Tacoma
+Los_Angeles	46n04	118w20	WA Walla Walla
+Los_Angeles	47n26	120w19	WA Wenatchee
+Los_Angeles	46n36	120w32	WA Yakima
+
+# US-Wisconsin (WI)
+Chicago	44n16	88w24	WI Appleton
+Chicago	46n35	90w52	WI Ashland
+Chicago	44n49	91w30	WI Eau Claire
+Chicago	43n46	88w27	WI Fond du Lac
+Chicago	44n31	87w59	WI Green Bay
+Chicago	42n41	89w01	WI Janesville
+Chicago	43n50	91w14	WI La Crosse
+Chicago	43n05	89w23	WI Madison
+Chicago	44n06	87w41	WI Manitowoc
+Chicago	43n04	87w58	WI Milwaukee
+Chicago	44n01	88w33	WI Oshkosh
+Chicago	42n44	87w48	WI Racine
+Chicago	43n45	87w44	WI Sheboygan
+Chicago	44n58	89w39	WI Wausau
+
+# US-West Virginia (WV)
+New_York	37n47	81w11	WV Beckley
+New_York	37n16	81w13	WV Bluefield
+New_York	38n21	81w38	WV Charleston
+New_York	39n17	80w20	WV Clarksburg
+New_York	39n29	80w09	WV Fairmont
+New_York	38n25	82w26	WV Huntington
+New_York	39n28	77w58	WV Martinsburg
+New_York	39n38	79w57	WV Morgantown
+New_York	39n16	81w33	WV Parkersburg
+New_York	40n24	80w34	WV Weirton
+New_York	40n05	80w42	WV Wheeling
+
+# US-Wyoming (WY)
+Denver	42n50	106w20	WY Casper
+Denver	41n09	104w48	WY Cheyenne
+Denver	41n16	110w58	WY Evanston
+Denver	44n17	105w31	WY Gillette
+Denver	41n31	109w28	WY Green River
+Denver	41n19	105w35	WY Laramie
+Denver	41n36	109w13	WY Rock Springs
+Denver	44n48	106w57	WY Sheridan
+
+
+# Uruguay
+Montevideo	33s18	58w04	Mercedes
+Montevideo	32s16	57w57	Paysandu
+Montevideo	31s03	55w32	Rivera
+Montevideo	31s16	57w46	Salto
+
+# US minor outlying islands
+# -
+
+# Uzbekistan
+# west
+Samarkand	39n50	64e24	Bukhoro
+Samarkand	42n43	59e45	Nukus
+Samarkand	38n52	65e46	Qarshi
+Samarkand	41n39	60e31	Urganch
+# east
+Tashkent	40n47	72e24	Andiyon
+Tashkent	41n05	70e13	Angren
+Tashkent	40n22	71e50	Farghona
+Tashkent	41n00	71e44	Namangan
+Tashkent	40n33	70e57	Quqon
+
+# Vanuatu
+# -
+
+# Vatican City
+# -
+
+# Venezuela
+Caracas	10n08	64w42	Barcelona
+Caracas	10n20	69w21	Barquisimeto
+Caracas	10n35	71w25	Cabimas
+Caracas	8n08	63w39	Ciudad Bolivar
+Caracas	8n24	62w37	Ciudad Guayana
+Caracas	10n28	64w10	Cumana
+Caracas	10n41	71w47	Maracaibo
+Caracas	9n55	63w16	Maturin
+Caracas	8n36	71w08	Merida
+Caracas	7n54	72w09	San Cristobal
+Caracas	8n02	67w38	San Fernando de Apure
+Caracas	10n21	68w08	Valencia
+
+# Vietnam
+Saigon	16n00	108e10	Da Nang
+Saigon	20n51	106e40	Haiphong
+Saigon	21n01	105e51	Hanoi
+
+# Virgin Islands (UK)
+# -
+
+# Virgin Islands (US)
+# -
+
+# Wallis & Futuna
+# -
+
+# Western Sahara
+# -
+
+# Yemen
+Aden	14n37	49e09	Al Mukalla
+Aden	14n48	43e04	Hodeida
+Aden	15n26	44e11	Sanaa
+Aden	13n38	44e03	Taizz
+
+# Yugoslavia
+Belgrade	44n01	20e55	Kragujevac
+Belgrade	43n20	21e55	Nis
+Belgrade	45n16	19e48	Novi Sad
+Belgrade	42n26	19e18	Podgorica
+Belgrade	42n40	21e10	Pristina
+Belgrade	46n06	19e40	Subotica
+
+# Zambia
+Lusaka	12s50	28e12	Kitwe
+Lusaka	13s02	28e32	Ndola
+Lusaka	17s45	25e56	Maramba
+
+# Zimbabwe
+Harare	20s10	28e39	Bulawayo
+
