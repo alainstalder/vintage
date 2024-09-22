@@ -3,7 +3,7 @@
 This stack turned HyperCard stack cards into webpages
 with one image screenshot stack card.
 
-See also its [readme](../trueTools-spider.pdf).
+See also its [readme](../READMEs/trueTools-spider.pdf).
 
 ## Stack Script
 

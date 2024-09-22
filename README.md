@@ -60,7 +60,7 @@ Some things you can find here in the [HyperCard directory](HyperCard):
   * The [**vue**](HyperCard/HyperTalk/trueTools-vue.md) stack from trueTools
     (an interactive image viewer, to me personally
     one of the most beautiful small pieces of software I ever wrote)
-  * [**All**](HyperCard/HyperTalk) stacks
+  * And [**more**](HyperCard/HyperTalk)…
 
 Some general info around HyperCard and especially color:
 

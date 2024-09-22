@@ -3,7 +3,7 @@
 This stack took screenshots of cards of HyperCard stacks
 to the clipboard and also allowed to print them.
 
-See also its [readme](../trueTools-truePrint.pdf).
+See also its [readme](../READMEs/trueTools-truePrint.pdf).
 
 ## Stack Script
 

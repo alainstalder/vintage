@@ -4,7 +4,7 @@ This is my favorite stack in the "trueTools" collection.
 It allowed to view images full screen without distractions,
 with possibility to zoom in and out, and to move around.
 
-See also its [readme](../trueTools-vue.pdf).
+See also its [readme](../READMEs/trueTools-vue.pdf).
 
 # Stack Script
 

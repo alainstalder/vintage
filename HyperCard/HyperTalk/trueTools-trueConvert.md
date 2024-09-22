@@ -1,13 +1,13 @@
 # trueTools: trueConvert
 
-This stack converts stacks colorized with trueColor
+This stack converted stacks colorized with trueColor
 to ones colorized with Apple's Color Tools (AddColor XCMD),
 at the time still hoping for a HyperCard 3.0 sometime
 with native color support
 which would have likely only supported color 
 added  via Apple's Color Tools.
 
-See also its [readme](../trueTools-trueConvert.pdf).
+See also its [readme](../READMEs/trueTools-trueConvert.pdf).
 
 ## Stack Script
 
