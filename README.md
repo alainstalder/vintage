@@ -117,7 +117,7 @@ Some things you can find here in the [PalmOS directory](PalmOS):
 
 * [**ZIP file**](PalmOS/collections/Delphi-astrolib-collection-2018.zip)
   of a collection from 2018 that
-  contains the original website of 2002 with distributions
+  contains the original website of 2002 with all distributions
   and also the astrolib source as far as it has been preserved.
 * Extracted from the website of 2002:
   * [**Title page**](PalmOS/extracts/web/index.md) with blown up images (without links)
