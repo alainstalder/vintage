@@ -87,21 +87,40 @@ It calculates astronomical positions of
 sun, moon, planets up to Pluto
 (Pluto was considered a planet back then),
 plus the true lunar nodes,
-and it calculates timezones based on
+and it calculates time zones based on
 UNIX tz data for all 350 tz locations
-plus a few thousand additional locations.
+plus about 2000 additional locations.
+
+I did not use any code from the UNIX tz data,
+but wrote that myself to fit into the small frame of PalmOS,
+also compressing the tz data into a condensed binary format.
+Also regarding astronomical calculations,
+I had to put function parameters into a static array
+because the stack was too small on these devices.
+Also, optimizing performance in Delphi when drawing charts
+was quite a challenge these times;
+I wrote my own routines for circles and dotted lines, etc.,
+and I created my own font for the various symbols.
+
+Overall, of course, to fit a birth chart onto such a small screen,
+which was only 160 x 160 pixels back then, was quite a challenge,
+and I am proud of the result.
 
 Some things you can find here under the [PalmOS directory](https://TODO):
 
 * [**ZIP file of the Website**](https://TODO) for Delphi 2.01 + astrolib 1.03 in 2002\
   (contains also the respective distributions of Delphi/astrolib)
 * From that website:
-  * [**Title page**] with blown up images (without links)
-  * [**Delphi's User Manual] with blown up images
+  * [**Title page**](PalmOS/extracts/web/index.md) with blown up images (without links)
+  * [**Delphi User's Manual page**](PalmOS/extracts/web/delphi-users-manual.md) with blown up images (without links)
+  * [**astrolib page**](https://TODO) rendered to Markdown
+* [**Source code of astrolib**](https://TODO)
+  (C with macros to make it read similar to Modula-2,
+  which made a difference before syntax coloring in editors)
 
-test:
-
-[![image](PalmOS/extracts/web/index836.png)](https://TODO)
-
-
-[![image](PalmOS/extracts/web/index.png)](https://TODO)
+By the way, Delphi was quite successful,
+there were thousands of downloads and quite a few support requests.
+While maybe my main reason for writing it had ironically been
+to put hashes and signatures of some documents I had written
+(around themes that are now at exactphilosophy.net)
+into the About Screens of different versions of Delphi.
