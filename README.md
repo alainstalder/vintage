@@ -21,12 +21,12 @@ in the included **trueHelp** stack,
 where you could also try the features live,
 here its title page:
 
-![image](trueHelp.jpg)]
+![image](trueHelp.jpg)
 
 The trueColor stack itself was visually quite small,
 just showed credits for my part and used XCMDs:
 
-![image](trueColor.jpg)]
+![image](trueColor.jpg)
 
 After writing and publishing trueColor,
 I also wrote a collection of further HyperCard tools
@@ -78,13 +78,13 @@ I started to write a small astrology program
 called **Delphi** for PalmOS handheld devices,
 and made the first release in October 2000.
 
-[![image](delphi.jpg)](https://TODO)
+![image](delphi.jpg)
 
 Delphi was Freeware but not Open Source
-and unfortunately its source code is lost.
+and unfortunately its C source code is lost.
 
-But what has been preserved is the source code
-of the Open Source library called **astrolib**
+But what has been preserved is the C source code
+of the Open Source (LGPL) library called **astrolib**
 which I wrote and was used by Delphi.
 It calculates astronomical positions of
 sun, moon, planets up to Pluto
