@@ -5,6 +5,13 @@ in their order.
 
 Personally, I love this stack…
 
+Note that visual appearance was already somewhat broken when
+I took those screenshots (apparently in 2005),
+because Apple had made changes to their fonts.
+
+Note also that the text field on the last card on the left
+uses a 7 pt Geneva font I made.
+
 ![image](cards/trueHelp1.png)
 
 ![image](cards/trueHelp2.png)

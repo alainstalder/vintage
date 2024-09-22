@@ -5,6 +5,13 @@ in their order,
 in which they were also presented in the slideshow
 when opening the stack.
 
+Note that visual appearance was already somewhat broken when
+I took those screenshots (apparently in 2005),
+because Apple had made changes to their fonts,
+here in particular Times.
+
+Note also that some text is in a 7 pt Geneva font I made.
+
 ![image](cards/trueColor1.png)
 
 ![image](cards/trueColor2.png)
