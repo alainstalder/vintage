@@ -51,9 +51,9 @@ Some things you can find here in the [HyperCard directory](HyperCard):
 * trueColor 1.03 original distribution: [trueColor-103.hqx](HyperCard/distro/trueColor-103.hqx)
 * trueHelp 1.03 original distribution: [trueTools-103.hqx](HyperCard/distro/trueTools-103.hqx)
 * All cards of:
-  * The [**trueColor**](HyperCard/cards/trueColor.md) stack
-  * The [**trueHelp**](HyperCard/cards/trueHelp.md) stack (don't miss!)
-  * All [**trueTools**](HyperCard/cards/trueTools.md) stacks
+  * The [**trueColor**](HyperCard/stacks/trueColor.md) stack
+  * The [**trueHelp**](HyperCard/stacks/trueHelp.md) stack (don't miss!)
+  * All [**trueTools**](HyperCard/stacks/trueTools.md) stacks
 * [**READMEs**](HyperCard/READMEs) of all components, rendered to PDFs
 * [**Hypertalk scripts**](HyperCard/HyperTalk) of:
   * The [**trueColor**](HyperCard/HyperTalk/trueColor.md) stack (core color functionality)
