@@ -1,7 +1,7 @@
 # Vintage Software by me
 
-Public Open Source / Freeware software I,
-Alain Stalder (*1966 in Switzerland),
+Public Open Source / Freeware software I –
+Alain Stalder (*1966 in Switzerland) –
 wrote and published in the past
 and which is no longer maintained,
 nor usually the systems it ran on.
