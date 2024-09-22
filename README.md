@@ -56,15 +56,15 @@ Some things you can find here in the [HyperCard directory](HyperCard):
   * All [**trueTools**](HyperCard/cards/trueTools.md) stacks
 * [**READMEs**](HyperCard/READMEs) of all components, rendered to PDFs
 * [**Hypertalk scripts**](HyperCard/HyperTalk) of:
-  * [**trueColor**](HyperCard/HyperTalk/trueColor.md) stack (core color functionality)
-  * trueTools: [**vue**](HyperCard/HyperTalk/trueTools-vue.md) stack 
+  * The [**trueColor**](HyperCard/HyperTalk/trueColor.md) stack (core color functionality)
+  * The [**vue**](HyperCard/HyperTalk/trueTools-vue.md) stack from trueTools
     (an interactive image viewer, to me personally
     one of the most beautiful small pieces of software I ever wrote)
-  * trueTools: [**more**](HyperCard/HyperTalk) stacks
+  * [**All**](HyperCard/HyperTalk) stacks
 
 Some general info around HyperCard and especially color:
 
-* [How HyperCard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/) <span style="color:lightgray">(uliwitness 2016)</span>
+* [**How HyperCard got its Color Back**](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/) <span style="color:lightgray">(uliwitness 2016)</span>
 
 By the way, I wrote these things during the 1.5 years
 I spent as a postdoc in physics at McGill University in Montréal, Canada,
@@ -120,9 +120,10 @@ Some things you can find here in the [PalmOS directory](PalmOS):
   contains the original website of 2002 with all distributions
   and also the astrolib source as far as it has been preserved.
 * Extracted from the website of 2002:
-  * [**Title page**](PalmOS/extracts/web/index.md) with blown up images (without links)
-  * [**Delphi User's Manual page**](PalmOS/extracts/web/delphi-users-manual.md) with blown up images (without links)
-  * [**astrolib page**](PalmOS/extracts/web/astrolib.md) rendered to Markdown
+  * [**Title**](PalmOS/web/index.md) page with blown up images (without links)
+  * [**Delphi User's Manual**](PalmOS/web/delphi.md) page with blown up images (without links)
+  * [**astrolib**](PalmOS/web/astrolib.md) page rendered to Markdown
+  * Page about the [**accuracy**](PalmOS/web/accuracy.md) of Delphi resp. astrolib
 * [**Source code of astrolib**](PalmOS/source/astrolib)
   (In C, but using macros to make it read similar to Modula-2,
   which made a difference before syntax coloring in editors)
