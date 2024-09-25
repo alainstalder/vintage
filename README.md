@@ -58,7 +58,7 @@ Some things you can find here in the [HyperCard directory](HyperCard):
     one of the most beautiful small pieces of software I ever wrote)
   * And [**more**](HyperCard/HyperTalk)…
 * [**ZIP file**](HyperCard/collections/trueColor-trueTools-collection-2018.zip)
-  of a collection from 2018 original distributions and some extracted info.
+  of a collection from 2018 with original distributions and some extracted info.
   * trueColor 1.03 original distribution: [trueColor-103.hqx](HyperCard/distro/trueColor-103.hqx)
   * trueHelp 1.03 original distribution: [trueTools-103.hqx](HyperCard/distro/trueTools-103.hqx)
 
@@ -125,7 +125,7 @@ Some things you can find here in the [PalmOS directory](PalmOS):
   which made a difference before syntax coloring in editors)
 * [**ZIP file**](PalmOS/collections/Delphi-astrolib-collection-2018.zip)
   of a collection from 2018 that
-  contains the original website of 2002 with all distributions
+  contains the original website of 2002, with all distributions
   and also the astrolib source as far as it has been preserved.
 
 By the way, Delphi was quite successful,
