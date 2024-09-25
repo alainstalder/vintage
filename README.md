@@ -66,7 +66,7 @@ Some general info around HyperCard and especially color:
 
 * [**How HyperCard got its Color Back**](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/) <span style="color:lightgray">(uliwitness 2016)</span>
 
-By the way, I wrote these things during the 1.5 years
+By the way, I wrote and published these stacks during the 1.5 years
 I spent as a postdoc in physics at McGill University in Montréal, Canada,
 a place I personally never felt even remotely at home.
 
@@ -129,7 +129,7 @@ Some things you can find here in the [PalmOS directory](PalmOS):
   and also the astrolib source as far as it has been preserved.
 
 By the way, Delphi was quite successful,
-there were thousands of downloads and quite a few support requests.
+there were thousands of downloads and quite a few support/feature requests.
 While maybe my main reason for writing it had ironically been
 to put hashes and signatures of some documents I had written
 (around themes that are now at exactphilosophy.net)
