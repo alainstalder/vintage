@@ -46,21 +46,21 @@ by running HyperCard in a Mac emulator like Mini vMac.
 
 Some things you can find here in the [HyperCard directory](HyperCard):
 
-* [**ZIP file**](HyperCard/collections/trueColor-trueTools-collection-2018.zip)
-  of a collection from 2018 original distributions and some extracted info.
-* trueColor 1.03 original distribution: [trueColor-103.hqx](HyperCard/distro/trueColor-103.hqx)
-* trueHelp 1.03 original distribution: [trueTools-103.hqx](HyperCard/distro/trueTools-103.hqx)
 * All cards of:
   * The [**trueColor**](HyperCard/stacks/trueColor.md) stack
   * The [**trueHelp**](HyperCard/stacks/trueHelp.md) stack (don't miss!)
   * All [**trueTools**](HyperCard/stacks/trueTools.md) stacks
 * [**READMEs**](HyperCard/READMEs) of all components, rendered to PDFs
-* [**Hypertalk scripts**](HyperCard/HyperTalk) of:
+* Hypertalk scripts of:
   * The [**trueColor**](HyperCard/HyperTalk/trueColor.md) stack (core color functionality)
   * The [**vue**](HyperCard/HyperTalk/trueTools-vue.md) stack from trueTools
     (an interactive image viewer, to me personally
     one of the most beautiful small pieces of software I ever wrote)
   * And [**more**](HyperCard/HyperTalk)…
+* [**ZIP file**](HyperCard/collections/trueColor-trueTools-collection-2018.zip)
+  of a collection from 2018 original distributions and some extracted info.
+  * trueColor 1.03 original distribution: [trueColor-103.hqx](HyperCard/distro/trueColor-103.hqx)
+  * trueHelp 1.03 original distribution: [trueTools-103.hqx](HyperCard/distro/trueTools-103.hqx)
 
 Some general info around HyperCard and especially color:
 
@@ -115,18 +115,18 @@ PHEM on Android devices.
 
 Some things you can find here in the [PalmOS directory](PalmOS):
 
-* [**ZIP file**](PalmOS/collections/Delphi-astrolib-collection-2018.zip)
-  of a collection from 2018 that
-  contains the original website of 2002 with all distributions
-  and also the astrolib source as far as it has been preserved.
 * Extracted from the website of 2002:
-  * [**Title**](PalmOS/web/index.md) page with blown up images (without links)
+  * [**Welcome**](PalmOS/web/index.md) page with blown up images (without links)
   * [**Delphi User's Manual**](PalmOS/web/delphi.md) page with blown up images (without links)
   * [**astrolib**](PalmOS/web/astrolib.md) page rendered to Markdown
   * Page about the [**accuracy**](PalmOS/web/accuracy.md) of Delphi resp. astrolib
 * [**Source code of astrolib**](PalmOS/source/astrolib)
   (In C, but using macros to make it read similar to Modula-2,
   which made a difference before syntax coloring in editors)
+* [**ZIP file**](PalmOS/collections/Delphi-astrolib-collection-2018.zip)
+  of a collection from 2018 that
+  contains the original website of 2002 with all distributions
+  and also the astrolib source as far as it has been preserved.
 
 By the way, Delphi was quite successful,
 there were thousands of downloads and quite a few support requests.
