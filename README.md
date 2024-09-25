@@ -21,16 +21,19 @@ in the included **trueHelp** stack,
 where you could also try the features live,
 here its title page:
 
-![image](trueHelp.jpg)
+[![image](trueHelp.jpg)](HyperCard/stacks/trueHelp.md)
 
 The trueColor stack itself was visually quite small,
 just showed credits for my part and used XCMDs:
 
-![image](trueColor.jpg)
+[![image](trueColor.jpg)](HyperCard/stacks/trueColor.md)
 
 After writing and publishing trueColor,
 I also wrote a collection of further HyperCard tools
-called simply **trueHelp**.
+called simply **trueTools**.
+
+[![image](HyperCard/stacks/cards/vue.png)](HyperCard/stacks/trueTools.md)
+
 
 This was all Freeware
 and by and large Open Source
@@ -62,7 +65,7 @@ Some things you can find here in the [HyperCard directory](HyperCard):
   * trueColor 1.03 original distribution: [trueColor-103.hqx](HyperCard/distro/trueColor-103.hqx)
   * trueHelp 1.03 original distribution: [trueTools-103.hqx](HyperCard/distro/trueTools-103.hqx)
 
-Some general info around HyperCard and especially color:
+Some general info around HyperCard and color:
 
 * [**How HyperCard got its Color Back**](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/) <span style="color:lightgray">(uliwitness 2016)</span>
 
@@ -78,7 +81,7 @@ I started to write a small astrology program
 called **Delphi** for PalmOS handheld devices,
 and made the first release in October 2000.
 
-![image](delphi.jpg)
+[![image](delphi.jpg)](PalmOS/web/index.md)
 
 Delphi was Freeware but not Open Source
 and unfortunately its C source code is lost.
