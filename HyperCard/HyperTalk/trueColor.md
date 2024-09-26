@@ -2,7 +2,7 @@
 
 Selected HyperTalk scripts from the trueColor stack.
 
-See also its [readme](../trueColor.pdf)
+See also its [readme](../READMEs/trueColor.pdf)
 and the [cards in the stack](../stacks/trueColor.md).
 
 ## Stack Script
