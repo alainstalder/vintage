@@ -10,6 +10,8 @@ I took those screenshots in 2024,
 because Apple had made changes to their fonts,
 as well as due to restrictions of the emulator.
 
+See also the general [readme](../READMEs/trueTools.pdf) of trueTools.
+
 ## JPEGtoPICT
 
 This stack allowed to convert JPEG images (and I think also GIFs)
