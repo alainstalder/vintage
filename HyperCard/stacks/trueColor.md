@@ -9,7 +9,7 @@ because Apple had made changes to their fonts,
 here in particular Times.
 Some text is in a 7 pt Geneva font I made.
 
-See also its [readme](../trueColor.pdf)
+See also its [readme](../READMEs/trueColor.pdf)
 and [selected HyperTalk scripts](../HyperTalk/trueColor.md) from it.
 
 ![image](cards/trueColor1.png)
