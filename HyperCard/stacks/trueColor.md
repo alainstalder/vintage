@@ -1,16 +1,16 @@
 # trueColor
 
-All cards of the stack (magnified by a factor of two),
-in their order,
-in which they were also presented in the slideshow
-when opening the stack.
+All cards of the trueColor stack, magnified by a factor of two.
+They were presented in the slideshow when opening the stack.
 
 Note that visual appearance was already somewhat broken when
 I took those screenshots (apparently in 2005),
 because Apple had made changes to their fonts,
 here in particular Times.
+Some text is in a 7 pt Geneva font I made.
 
-Note also that some text is in a 7 pt Geneva font I made.
+See also its [readme](../trueColor.pdf)
+and [selected HyperTalk scripts](../HyperTalk/trueColor.md) from it.
 
 ![image](cards/trueColor1.png)
 

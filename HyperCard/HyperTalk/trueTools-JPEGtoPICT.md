@@ -1,10 +1,12 @@
 # trueTools: JPEGtoPICT
 
-This stack allowed to convert JPEG images (and I think also GIFs)
+The stack **JPEGtoPICT** of the **trueTools** collection
+allowed to convert JPEG images (and I think also GIFs)
 to the PICT format that was used widely on Macs at the time,
 using Apple's Quicktime via AppleScript.
 
-See also its [readme](../READMEs/trueTools-JPEGtoPICT.pdf).
+See also its [readme](../READMEs/trueTools-JPEGtoPICT.pdf)
+and the [overview of the trueTools](../stacks/trueTools.md).
 
 ## Stack Script
 

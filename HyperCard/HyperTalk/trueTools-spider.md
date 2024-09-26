@@ -1,9 +1,11 @@
 # trueTools: spider
 
-This stack turned HyperCard stack cards into webpages
+The stack **spider** of the **trueTools** collection
+turned HyperCard stack cards into webpages
 with one image screenshot stack card.
 
-See also its [readme](../READMEs/trueTools-spider.pdf).
+See also its [readme](../READMEs/trueTools-spider.pdf)
+and the [overview of the trueTools](../stacks/trueTools.md).
 
 ## Stack Script
 

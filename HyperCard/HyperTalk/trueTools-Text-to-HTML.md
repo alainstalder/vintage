@@ -1,11 +1,14 @@
 # trueTools: Text to HTML
 
-This stack simply converted given text to HTML,
+The stack **Text to HTML** of the **trueTools** collection
+converted given text to HTML,
 i.e. it replaced some characters by their HTML escapes
 (like "&amp;" for "&") plus detected bold and italic text.
 
 (The actual replacements were configurable via a card button,
 that is why they are not visible in the script).
+
+See also the [overview of the trueTools](../stacks/trueTools.md).
 
 ## Card Button "Convert" Script
 

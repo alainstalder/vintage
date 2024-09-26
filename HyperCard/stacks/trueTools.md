@@ -1,14 +1,14 @@
 # trueTools
 
-All trueTool stacks (which were all one-carders)
-(magnified by a factor of two)
+All **trueTool** stacks (which were all one-carders),
+magnified by a factor of two,
 in alphabetical order,
-hence my favorite stack "vue" at the end.
+with my favorite stack "vue" at the end.
 
 Note that visual appearance was already somewhat broken when
 I took those screenshots in 2024,
-because Apple had made changes to their fonts
-and due to restrictions of the emulator.
+because Apple had made changes to their fonts,
+as well as due to restrictions of the emulator.
 
 ## JPEGtoPICT
 
@@ -16,7 +16,8 @@ This stack allowed to convert JPEG images (and I think also GIFs)
 to the PICT format that was used widely on Macs at the time,
 using Apple's Quicktime via AppleScript.
 
-See also its [readme](../READMEs/trueTools-JPEGtoPICT.pdf).
+See also its [readme](../READMEs/trueTools-JPEGtoPICT.pdf)
+and [selected HyperTalk scripts](../HyperTalk/trueTools-JPEGtoPICT.md) from it.
 
 ![image](cards/JPEGtoPICT.png)
 
@@ -25,7 +26,8 @@ See also its [readme](../READMEs/trueTools-JPEGtoPICT.pdf).
 This stack turned HyperCard stack cards into webpages
 with one image screenshot stack card.
 
-See also its [readme](../READMEs/trueTools-spider.pdf).
+See also its [readme](../READMEs/trueTools-spider.pdf)
+and [selected HyperTalk scripts](../HyperTalk/trueTools-spider.md) from it.
 
 ![image](cards/spider.png)
 
@@ -37,6 +39,8 @@ i.e. it replaced some characters by their HTML escapes
 
 ![image](cards/Text-to-HTML.png)
 
+See also [selected HyperTalk scripts](../HyperTalk/trueTools-Text-to-HTML.md) from it.
+
 ## trueConvert
 
 This stack converted stacks colorized with trueColor
@@ -46,7 +50,8 @@ with native color support
 which would have likely only supported color
 added  via Apple's Color Tools.
 
-See also its [readme](../READMEs/trueTools-trueConvert.pdf).
+See also its [readme](../READMEs/trueTools-trueConvert.pdf)
+and [selected HyperTalk scripts](../HyperTalk/trueTools-trueConvert.md) from it.
 
 ![image](cards/trueConvert.png)
 
@@ -55,7 +60,8 @@ See also its [readme](../READMEs/trueTools-trueConvert.pdf).
 This stack took screenshots of cards of HyperCard stacks
 to the clipboard and also allowed to print them.
 
-See also its [readme](../READMEs/trueTools-truePrint.pdf).
+See also its [readme](../READMEs/trueTools-truePrint.pdf)
+and [selected HyperTalk scripts](../HyperTalk/trueTools-truePrint.md) from it.
 
 ![image](cards/truePrint.png)
 
@@ -65,6 +71,7 @@ This is my favorite stack in the "trueTools" collection.
 It allowed to view images full screen without distractions,
 with possibility to zoom in and out, and to move around.
 
-See also its [readme](../READMEs/trueTools-vue.pdf).
+See also its [readme](../READMEs/trueTools-vue.pdf)
+and [selected HyperTalk scripts](../HyperTalk/trueTools-vue.md) from it.
 
 ![image](cards/vue.png)

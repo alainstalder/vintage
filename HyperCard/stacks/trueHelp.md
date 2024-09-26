@@ -1,16 +1,16 @@
 # trueHelp
 
-All cards of the stack (magnified by a factor of two),
-in their order.
-
-Personally, I love this stack…
+All cards of the **trueHelp** stack, magnified by a factor of two.
 
 Note that visual appearance was already somewhat broken when
 I took those screenshots (apparently in 2005),
 because Apple had made changes to their fonts.
-
-Note also that the text field on the last card on the left
+The text field on the last card on the left
 uses a 7 pt Geneva font I made.
+
+See also the [readme of trueColor](../trueColor.pdf)
+and [selected HyperTalk scripts](../HyperTalk/trueColor.md)
+from the trueColor stack.
 
 ![image](cards/trueHelp1.png)
 

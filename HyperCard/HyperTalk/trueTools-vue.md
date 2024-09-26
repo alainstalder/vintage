@@ -1,10 +1,13 @@
 # trueTools: vue
 
-This is my favorite stack in the "trueTools" collection.
-It allowed to view images full screen without distractions,
+The stack **vue** of the **trueTools** collection
+allowed to view images full screen without distractions,
 with possibility to zoom in and out, and to move around.
 
-See also its [readme](../READMEs/trueTools-vue.pdf).
+This is my favorite stack in the "trueTools" collection.
+
+See also its [readme](../READMEs/trueTools-vue.pdf)
+and the [overview of the trueTools](../stacks/trueTools.md).
 
 # Stack Script
 

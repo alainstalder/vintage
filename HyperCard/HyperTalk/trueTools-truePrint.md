@@ -1,9 +1,11 @@
 # trueTools: truePrint
 
-This stack took screenshots of cards of HyperCard stacks
+The stack **trueConvert** of the **trueTools** collection
+took screenshots of cards of HyperCard stacks
 to the clipboard and also allowed to print them.
 
-See also its [readme](../READMEs/trueTools-truePrint.pdf).
+See also its [readme](../READMEs/trueTools-truePrint.pdf)
+and the [overview of the trueTools](../stacks/trueTools.md).
 
 ## Stack Script
 
