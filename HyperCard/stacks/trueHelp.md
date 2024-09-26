@@ -8,7 +8,7 @@ because Apple had made changes to their fonts.
 The text field on the last card on the left
 uses a 7 pt Geneva font I made.
 
-See also the [readme of trueColor](../READMEs/trueTools.pdf)
+See also the [readme of trueColor](../READMEs/trueColor.pdf)
 and [selected HyperTalk scripts](../HyperTalk/trueColor.md)
 from the trueColor stack.
 
